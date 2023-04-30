@@ -44,3 +44,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Candela                            | Orquesta La Conquistadora | https://open.spotify.com/track/4GNdG2GTECFQb3ybkbgSnh |
 | Cogele el golpe                    | Cachao                    | https://open.spotify.com/track/0lunMiZlsZ7U854GvHMyVZ |
 | Dilema                             | Johnny Ventura            | https://open.spotify.com/track/5SOpWUw80uaYgOBCOjuY0V |
+| Vuelve                             | Andy Montañez             | https://open.spotify.com/track/7wk0sxpcNrjY448B6uizAJ |
+| Este es                            | Johnny El Bravo           | https://open.spotify.com/track/7mBzEoM1uUwWIN2SMkwck5 |
