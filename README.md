@@ -120,3 +120,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Piano pachanga                    | Johnny Conquet            | https://open.spotify.com/track/2ki50Y9sgcRPu5TU2C576b |
 | Caja de sorpresas                 | Gran Combo De Puerto Rico | not found                                             |
 | El que regala y quita             | Grupo Niche               | https://open.spotify.com/track/6iJkG9MvpvQ96acym2gw5U |
+| Escarcha                          | Hector Lavoe              | https://open.spotify.com/track/0mo8I0fGwUWirxqum46KeK |
