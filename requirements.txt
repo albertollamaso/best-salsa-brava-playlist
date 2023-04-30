@@ -1,0 +1,8 @@
+beautifulsoup4
+bs4
+mdtable
+pandas
+requests
+selenium
+webdriver_manager
+spotipy
