@@ -98,3 +98,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Tumba la caña                     | Lucho Macedo              | https://open.spotify.com/track/1uYF7tXZtomsTZzMx0M42i |
 | Mambo del politecnico             | Perez Prado               | https://open.spotify.com/track/18hoGhRHSr0rDwj8V9bsAZ |
 | Descarga de Kiki                  | Fajardo y Sus Estrellas   | not found                                             |
+| Olga y margara                    | Conjunto Clasico          | https://open.spotify.com/track/4iFiaE6YWhgMI8GTMBFlvf |
