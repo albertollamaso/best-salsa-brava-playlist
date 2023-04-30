@@ -53,3 +53,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Te regalo el corazon               | Gran Combo De Puerto Rico | https://open.spotify.com/track/6JTuTBQwY6SwCx0HzdZVjV |
 | Sep Veinticuatro Horas             | Colombia Salsa Dura       | not found                                             |
 | Saraguay santoja                   | Angel Canales             | https://open.spotify.com/track/1lcgnuJJrwJOmqLRwBkGCu |
+| Ya llego la pachanga               | Joe Quijano               | https://open.spotify.com/track/1pxv6O4wEwQhZh0t3NuxHf |
+| Mississippi Mambo                  | Noro Morales              | https://open.spotify.com/track/0n3umry97115V9PO2K6JrV |
