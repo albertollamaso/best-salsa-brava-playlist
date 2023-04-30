@@ -55,3 +55,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Saraguay santoja                   | Angel Canales             | https://open.spotify.com/track/1lcgnuJJrwJOmqLRwBkGCu |
 | Ya llego la pachanga               | Joe Quijano               | https://open.spotify.com/track/1pxv6O4wEwQhZh0t3NuxHf |
 | Mississippi Mambo                  | Noro Morales              | https://open.spotify.com/track/0n3umry97115V9PO2K6JrV |
+| Guasasa                            | Larry Harlow              | not found                                             |
+| Dejala que siga                    | Hector Lavoe              | https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9 |
