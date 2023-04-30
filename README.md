@@ -100,3 +100,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Descarga de Kiki                  | Fajardo y Sus Estrellas   | not found                                             |
 | Olga y margara                    | Conjunto Clasico          | https://open.spotify.com/track/4iFiaE6YWhgMI8GTMBFlvf |
 | Mi desengaño                      | Roberto Roena             | https://open.spotify.com/track/1RKBf3NxIYZXKZNzdrXg69 |
+| El yoyo                           | Cortijo y su Combo        | https://open.spotify.com/track/62AsPIQfwIG3KI588y1oxU |
