@@ -108,3 +108,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Juan pachanga                     | Ruben Blades              | https://open.spotify.com/track/1jUMNoLhnrD3c8iWncVFSr |
 | Amada mia                         | Cheo Feliciano            | https://open.spotify.com/track/3FisO1ah3lVv1kYyu4wSJb |
 | Que bueno seria                   | Belisario Lopez           | https://open.spotify.com/track/3LZQRVQEwJ7zNsDzeWAYOf |
+| Tuya y mas que tuya               | Celia Cruz                | https://open.spotify.com/track/0x3vK1C7WpdFkKXBbPDaay |
