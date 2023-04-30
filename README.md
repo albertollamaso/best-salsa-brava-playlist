@@ -121,3 +121,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Caja de sorpresas                 | Gran Combo De Puerto Rico | not found                                             |
 | El que regala y quita             | Grupo Niche               | https://open.spotify.com/track/6iJkG9MvpvQ96acym2gw5U |
 | Escarcha                          | Hector Lavoe              | https://open.spotify.com/track/0mo8I0fGwUWirxqum46KeK |
+| Rebelion                          | Joe Arroyo                | https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD |
