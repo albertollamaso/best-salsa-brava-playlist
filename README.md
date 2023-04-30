@@ -86,3 +86,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La casa                            | Orlando Marin             | https://open.spotify.com/track/3H2PEOg5hpTwcVhfLTXUjF |
 | Lo voy a matar                     | Tony Pabon                | https://open.spotify.com/track/6zbrg6Xk70524Gsk2QohHe |
 | Dile que por mi no tema            | Celia Cruz                | https://open.spotify.com/track/2nti8TuVhtp3Gk53WUnnM4 |
+| Pa' las villas                     | Jimmy Sabater             | https://open.spotify.com/track/1QkSHaQlzXAFGDcE4KHUJq |
+| Ritmo changui                      | Orquesta Broadway         | https://open.spotify.com/track/5D7lpDwOC55CQ12JkwZD44 |
