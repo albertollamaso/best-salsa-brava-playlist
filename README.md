@@ -103,3 +103,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El yoyo                           | Cortijo y su Combo        | https://open.spotify.com/track/62AsPIQfwIG3KI588y1oxU |
 | Conmigo                           | Eddie Palmieri            | https://open.spotify.com/track/11veDxadSvnUUiCmgUMFbH |
 | Vuelve                            | Cuco Valoy                | https://open.spotify.com/track/5Q3O8nf9zQLYz1n3fVIKGu |
+| Soy la voz                        | Hector Lavoe              | not found                                             |
+| Timbalero                         | Gran Combo De Puerto Rico | https://open.spotify.com/track/6GGv5bp9nsEQMYyguJfWyv |
