@@ -91,3 +91,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Brujeria                           | Gran Combo De Puerto Rico | https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM |
 | Mi negra y la calentura            | Grupo Niche               | https://open.spotify.com/track/1F7AgINv1nMIQpa7MG2y2a |
 | Descarga 72                        | Willie Rodriguez          | https://open.spotify.com/track/0whNepSOk8TixuH4cXIoDX |
+| Cuña CBD                           | Publicidad                | not found                                             |
