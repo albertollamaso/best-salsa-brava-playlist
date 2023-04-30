@@ -46,3 +46,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Dilema                             | Johnny Ventura            | https://open.spotify.com/track/5SOpWUw80uaYgOBCOjuY0V |
 | Vuelve                             | Andy Montañez             | https://open.spotify.com/track/7wk0sxpcNrjY448B6uizAJ |
 | Este es                            | Johnny El Bravo           | https://open.spotify.com/track/7mBzEoM1uUwWIN2SMkwck5 |
+| Naci moreno                        | Bobby Valentin            | https://open.spotify.com/track/6qPJyX7IRJ4aFuUDGIX3lg |
