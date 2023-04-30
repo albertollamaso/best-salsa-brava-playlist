@@ -65,6 +65,8 @@ def get_spotify_uri(spotifyToken, track, artist):
     else:
         return "not found"
 
+titleBlacklist = ["Advert", "Advert:"]
+
 
 SOURCE_URL = os.getenv('SOURCE_URL')
 SPOTIFY_CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
@@ -95,11 +97,12 @@ artists = scrape("artist-name")
 
 
 for (title, artist) in zip(titles, artists):
-    if checkDuplicate(title, artist):
-        spotifyTrackUrl = get_spotify_uri(spotifyAuthToken, title, artist)
-        print("Adding song:")
-        print("title:  {}".format(title))
-        print("artist: {}".format(artist))
-        print("spotify url: {}".format(spotifyTrackUrl))
-        writer.writerow([title, artist, spotifyTrackUrl])
-        print("--------------------------------------------------------")
+    if (title not in titleBlacklist):
+        if checkDuplicate(title, artist):
+            spotifyTrackUrl = get_spotify_uri(spotifyAuthToken, title, artist)
+            print("Adding song:")
+            print("title:  {}".format(title))
+            print("artist: {}".format(artist))
+            print("spotify url: {}".format(spotifyTrackUrl))
+            writer.writerow([title, artist, spotifyTrackUrl])
+            print("--------------------------------------------------------")
