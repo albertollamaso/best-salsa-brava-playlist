@@ -34,7 +34,7 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Trucutu                            | Tommy Olivencia           | https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY |
 | Aprende a querer                   | Los Maraqueros            | https://open.spotify.com/track/14Ud5MkZ545vb2KXz9fZXW |
 | Hong Kong mambo                    | Tito Puente               | https://open.spotify.com/track/1QLC5yG0vyDMXsShhpsGsX |
-| The don Jose Pachanga              | Sexteto La Plata          | not found                                             |
+| The don Jose Pachanga              | Sexteto La Plata          | https://open.spotify.com/track/40MtH3JlTVMUlWX6y9zmct |
 | Sep Anuncia en Colombia Salsa Dura | Colombia Salsa Dura       | not found                                             |
 | Guajira y son                      | Sexteto Juventud          | not found                                             |
 | Cartagena                          | Don Gonzalo Fernandez     | https://open.spotify.com/track/7jK38ByRpsWyveWkzRgA2i |
@@ -93,3 +93,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Descarga 72                        | Willie Rodriguez          | https://open.spotify.com/track/0whNepSOk8TixuH4cXIoDX |
 | Cuña CBD                           | Publicidad                | not found                                             |
 | Bandolera                          | Hector Lavoe              | https://open.spotify.com/track/5UCnz9Q6GSFLl6oeCSaSSZ |
+| Darling                            | Las Estrellas Latinas     | https://open.spotify.com/track/2C59FvFzpyZhcj0Uf59gHq |
