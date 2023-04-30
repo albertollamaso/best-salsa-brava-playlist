@@ -114,3 +114,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Como te quise yo                  | Sonora Ponceña            | https://open.spotify.com/track/317T83I7ziNUdT1SIkxxVj |
 | The click                         | Fania All Stars           | https://open.spotify.com/track/08saZVXxY3XjNRyoLsQMO9 |
 | Oriente                           | Henry Fiol                | https://open.spotify.com/track/5T4ZIMPGpeEmb6nuD4iyhv |
+| Pancho el loco                    | Hermanos Lebron           | not found                                             |
