@@ -94,3 +94,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Cuña CBD                           | Publicidad                | not found                                             |
 | Bandolera                          | Hector Lavoe              | https://open.spotify.com/track/5UCnz9Q6GSFLl6oeCSaSSZ |
 | Darling                            | Las Estrellas Latinas     | https://open.spotify.com/track/2C59FvFzpyZhcj0Uf59gHq |
+| Yay voy                            | Africando                 | not found                                             |
