@@ -74,3 +74,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Galletana                          | Conjunto Candela          | https://open.spotify.com/track/0kof1aFFKjnfwhqK0jKvZW |
 | El gozon                           | Latin Tempo               | https://open.spotify.com/track/5QgAU6JV10POSDtMvJD6XS |
 | Asi vivo yo                        | Orquesta Colon            | https://open.spotify.com/track/2CcyeSu1PAIIhb4Iv5sagx |
+| Quiereme siempre                   | Orquesta Aragon           | https://open.spotify.com/track/22F9GG1fnzQNJRqOmepoqd |
