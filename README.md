@@ -92,3 +92,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Guaguanco raro                    | Richie Ray & Bobby Cruz   | https://open.spotify.com/track/2p4JCDisy82i1dhZW4v0Pr |
 | Son son sonero                    | Ismael Rivera             | https://open.spotify.com/track/6fkj46aq8HciRuahLWalUs |
 | Solo se que tiene nombre de mujer | Angel Canales             | https://open.spotify.com/track/5BhskgYOvFHJqriUD0sWww |
+| La boda de ella                   | Bobby Valentin            | https://open.spotify.com/track/5TJdydyYwx5qvajZWFocwe |
