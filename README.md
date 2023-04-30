@@ -66,3 +66,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Eres                               | Santiago Ceron            | https://open.spotify.com/track/3fzHBJL5fBiKVUNXCM1X1F |
 | Punto bare                         | Pete El Conde Rodriguez   | https://open.spotify.com/track/0VivChKkS9IhrclpF4du3d |
 | Oye mi son                         | Guillermo Portabales      | https://open.spotify.com/track/28LdxtoxqzTF5u9dV2sxuz |
+| Cuña Ortho Implants                | Publicidad                | not found                                             |
