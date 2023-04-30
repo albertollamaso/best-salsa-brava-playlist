@@ -77,3 +77,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Quiereme siempre                   | Orquesta Aragon           | https://open.spotify.com/track/22F9GG1fnzQNJRqOmepoqd |
 | Nostalgia                          | Angel Canales             | https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1 |
 | El tabacon                         | Tony Pabon                | https://open.spotify.com/track/4sNQU7kXoWipL2fVrnZQ67 |
+| La mama y la hija                  | Sonora Matancera          | https://open.spotify.com/track/3SvgTwzhkwcBpGgHieHPKC |
