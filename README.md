@@ -112,3 +112,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Cañonazo                          | Sonora Matancera          | https://open.spotify.com/track/0xXdimJqiKkEoriGsih8WH |
 | Mambo indio                       | Al Stefano                | not found                                             |
 | Como te quise yo                  | Sonora Ponceña            | https://open.spotify.com/track/317T83I7ziNUdT1SIkxxVj |
+| The click                         | Fania All Stars           | https://open.spotify.com/track/08saZVXxY3XjNRyoLsQMO9 |
