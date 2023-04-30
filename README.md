@@ -122,3 +122,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El que regala y quita             | Grupo Niche               | https://open.spotify.com/track/6iJkG9MvpvQ96acym2gw5U |
 | Escarcha                          | Hector Lavoe              | https://open.spotify.com/track/0mo8I0fGwUWirxqum46KeK |
 | Rebelion                          | Joe Arroyo                | https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD |
+| El faisan                         | Johnny Pacheco            | https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG |
