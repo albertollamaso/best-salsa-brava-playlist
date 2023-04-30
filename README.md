@@ -60,3 +60,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Vamos a gozar                      | Orquesta Narvaez          | https://open.spotify.com/track/6Z2ymct2GGcKoOiqfdms2S |
 | Camaleon                           | Ruben Blades              | https://open.spotify.com/track/5GUUC8DAKNooSDKR2cwr38 |
 | Carmen                             | Rene Grand y su Combo     | https://open.spotify.com/track/6LgoKL7hkc5WjNyAUh2Bcb |
+| Historia de una rumba              | Celia Cruz                | not found                                             |
