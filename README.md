@@ -48,7 +48,8 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Este es                            | Johnny El Bravo           | https://open.spotify.com/track/7mBzEoM1uUwWIN2SMkwck5 |
 | Naci moreno                        | Bobby Valentin            | https://open.spotify.com/track/6qPJyX7IRJ4aFuUDGIX3lg |
 | Soy sensacional                    | Larry Harlow              | not found                                             |
-| Advert:                            | Advert:                   | https://open.spotify.com/track/5fJ72IhPKzSTtKQsHjgUWD |
 | Plena Española                     | El Klan De Porfi          | not found                                             |
 | Voy                                | Orquesta Broadway         | https://open.spotify.com/track/2kKs7ZiMucAcIrB55roU46 |
 | Te regalo el corazon               | Gran Combo De Puerto Rico | https://open.spotify.com/track/6JTuTBQwY6SwCx0HzdZVjV |
+| Sep Veinticuatro Horas             | Colombia Salsa Dura       | not found                                             |
+| Saraguay santoja                   | Angel Canales             | https://open.spotify.com/track/1lcgnuJJrwJOmqLRwBkGCu |
