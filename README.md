@@ -111,3 +111,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Tuya y mas que tuya               | Celia Cruz                | https://open.spotify.com/track/0x3vK1C7WpdFkKXBbPDaay |
 | Cañonazo                          | Sonora Matancera          | https://open.spotify.com/track/0xXdimJqiKkEoriGsih8WH |
 | Mambo indio                       | Al Stefano                | not found                                             |
+| Como te quise yo                  | Sonora Ponceña            | https://open.spotify.com/track/317T83I7ziNUdT1SIkxxVj |
