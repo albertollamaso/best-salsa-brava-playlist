@@ -82,3 +82,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La mulata rumbera                  | Frank Emilio              | not found                                             |
 | Sep Recordar es vivir              | Colombia Salsa Dura       | not found                                             |
 | Soy del monte                      | Benny More                | not found                                             |
+| Cuña Laboratorio TESLAB mascotas   | Publicidad                | not found                                             |
+| La casa                            | Orlando Marin             | https://open.spotify.com/track/3H2PEOg5hpTwcVhfLTXUjF |
