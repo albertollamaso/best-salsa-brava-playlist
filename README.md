@@ -70,3 +70,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Pachanga en catanga                | Mon Rivera                | https://open.spotify.com/track/101mzHyf8mzqhtsOj8uNQT |
 | Muchachita                         | Orquesta Sabotaje         | https://open.spotify.com/track/2uUnR2LRcMthfZn4mpPtnR |
 | Mujer divina                       | Cheo Feliciano            | not found                                             |
+| Amor pa' que                       | Conjunto Candela          | https://open.spotify.com/track/5eoMWEijqH3kQ7qevcFosR |
