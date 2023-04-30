@@ -94,3 +94,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Solo se que tiene nombre de mujer | Angel Canales             | https://open.spotify.com/track/5BhskgYOvFHJqriUD0sWww |
 | La boda de ella                   | Bobby Valentin            | https://open.spotify.com/track/5TJdydyYwx5qvajZWFocwe |
 | Tres dias de carnaval             | Celia Cruz                | https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL |
+| Mentira                           | Cheo Feliciano            | https://open.spotify.com/track/5oINGrXjZ09qBZlxS3SF3w |
