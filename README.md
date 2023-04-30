@@ -62,3 +62,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Carmen                             | Rene Grand y su Combo     | https://open.spotify.com/track/6LgoKL7hkc5WjNyAUh2Bcb |
 | Historia de una rumba              | Celia Cruz                | not found                                             |
 | Lindo yambu                        | Santiago Ceron            | https://open.spotify.com/track/6F3IWzKb8UbwjB0HMxxu5I |
+| Camaguey                           | Melcochita                | https://open.spotify.com/track/2k0OwbQJsyDJddUrSXkT32 |
+| Eres                               | Santiago Ceron            | https://open.spotify.com/track/3fzHBJL5fBiKVUNXCM1X1F |
