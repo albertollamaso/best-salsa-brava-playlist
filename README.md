@@ -80,3 +80,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La mama y la hija                  | Sonora Matancera          | https://open.spotify.com/track/3SvgTwzhkwcBpGgHieHPKC |
 | El rincon caliente                 | Sonora Ponceña            | https://open.spotify.com/track/4ctF5pkYvm6zb23v2IGXbO |
 | La mulata rumbera                  | Frank Emilio              | not found                                             |
+| Sep Recordar es vivir              | Colombia Salsa Dura       | not found                                             |
