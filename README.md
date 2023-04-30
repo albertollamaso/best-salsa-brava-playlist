@@ -28,16 +28,19 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 
 ## SONGS
 
-| title                              | artist                  | spotifyURL                                            |
-| ---------------------------------- | ----------------------- | ----------------------------------------------------- |
-| Mi amigo el payaso                 | Willie Rosario          | https://open.spotify.com/track/51InsKGmox8AzUOnTygpTa |
-| Trucutu                            | Tommy Olivencia         | https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY |
-| Aprende a querer                   | Los Maraqueros          | https://open.spotify.com/track/14Ud5MkZ545vb2KXz9fZXW |
-| Hong Kong mambo                    | Tito Puente             | https://open.spotify.com/track/1QLC5yG0vyDMXsShhpsGsX |
-| The don Jose Pachanga              | Sexteto La Plata        | not found                                             |
-| Sep Anuncia en Colombia Salsa Dura | Colombia Salsa Dura     | not found                                             |
-| Guajira y son                      | Sexteto Juventud        | not found                                             |
-| Cartagena                          | Don Gonzalo Fernandez   | https://open.spotify.com/track/7jK38ByRpsWyveWkzRgA2i |
-| Caballo viejo                      | Roberto Torres          | https://open.spotify.com/track/1anvIYY3hAtLL72lJA5z44 |
-| Gan gan y gan gon                  | Richie Ray & Bobby Cruz | https://open.spotify.com/track/720YcfJfcMrRgn42LCdZZt |
-| El que siembra su maiz             | Oscar D' Leon           | https://open.spotify.com/track/6twkbk7nborAviztg3eTH9 |
+| title                              | artist                    | spotifyURL                                            |
+| ---------------------------------- | ------------------------- | ----------------------------------------------------- |
+| Mi amigo el payaso                 | Willie Rosario            | https://open.spotify.com/track/51InsKGmox8AzUOnTygpTa |
+| Trucutu                            | Tommy Olivencia           | https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY |
+| Aprende a querer                   | Los Maraqueros            | https://open.spotify.com/track/14Ud5MkZ545vb2KXz9fZXW |
+| Hong Kong mambo                    | Tito Puente               | https://open.spotify.com/track/1QLC5yG0vyDMXsShhpsGsX |
+| The don Jose Pachanga              | Sexteto La Plata          | not found                                             |
+| Sep Anuncia en Colombia Salsa Dura | Colombia Salsa Dura       | not found                                             |
+| Guajira y son                      | Sexteto Juventud          | not found                                             |
+| Cartagena                          | Don Gonzalo Fernandez     | https://open.spotify.com/track/7jK38ByRpsWyveWkzRgA2i |
+| Caballo viejo                      | Roberto Torres            | https://open.spotify.com/track/1anvIYY3hAtLL72lJA5z44 |
+| Gan gan y gan gon                  | Richie Ray & Bobby Cruz   | https://open.spotify.com/track/720YcfJfcMrRgn42LCdZZt |
+| El que siembra su maiz             | Oscar D' Leon             | https://open.spotify.com/track/6twkbk7nborAviztg3eTH9 |
+| Candela                            | Orquesta La Conquistadora | https://open.spotify.com/track/4GNdG2GTECFQb3ybkbgSnh |
+| Cogele el golpe                    | Cachao                    | https://open.spotify.com/track/0lunMiZlsZ7U854GvHMyVZ |
+| Dilema                             | Johnny Ventura            | https://open.spotify.com/track/5SOpWUw80uaYgOBCOjuY0V |
