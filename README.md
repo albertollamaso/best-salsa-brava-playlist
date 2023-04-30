@@ -50,3 +50,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Soy sensacional                    | Larry Harlow              | not found                                             |
 | Advert:                            | Advert:                   | https://open.spotify.com/track/5fJ72IhPKzSTtKQsHjgUWD |
 | Plena Española                     | El Klan De Porfi          | not found                                             |
+| Voy                                | Orquesta Broadway         | https://open.spotify.com/track/2kKs7ZiMucAcIrB55roU46 |
+| Te regalo el corazon               | Gran Combo De Puerto Rico | https://open.spotify.com/track/6JTuTBQwY6SwCx0HzdZVjV |
