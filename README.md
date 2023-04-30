@@ -48,3 +48,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Este es                            | Johnny El Bravo           | https://open.spotify.com/track/7mBzEoM1uUwWIN2SMkwck5 |
 | Naci moreno                        | Bobby Valentin            | https://open.spotify.com/track/6qPJyX7IRJ4aFuUDGIX3lg |
 | Soy sensacional                    | Larry Harlow              | not found                                             |
+| Advert:                            | Advert:                   | https://open.spotify.com/track/5fJ72IhPKzSTtKQsHjgUWD |
+| Plena Española                     | El Klan De Porfi          | not found                                             |
