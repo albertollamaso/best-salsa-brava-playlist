@@ -101,3 +101,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Olga y margara                    | Conjunto Clasico          | https://open.spotify.com/track/4iFiaE6YWhgMI8GTMBFlvf |
 | Mi desengaño                      | Roberto Roena             | https://open.spotify.com/track/1RKBf3NxIYZXKZNzdrXg69 |
 | El yoyo                           | Cortijo y su Combo        | https://open.spotify.com/track/62AsPIQfwIG3KI588y1oxU |
+| Conmigo                           | Eddie Palmieri            | https://open.spotify.com/track/11veDxadSvnUUiCmgUMFbH |
+| Vuelve                            | Cuco Valoy                | https://open.spotify.com/track/5Q3O8nf9zQLYz1n3fVIKGu |
