@@ -72,3 +72,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Mujer divina                       | Cheo Feliciano            | not found                                             |
 | Amor pa' que                       | Conjunto Candela          | https://open.spotify.com/track/5eoMWEijqH3kQ7qevcFosR |
 | Galletana                          | Conjunto Candela          | https://open.spotify.com/track/0kof1aFFKjnfwhqK0jKvZW |
+| El gozon                           | Latin Tempo               | https://open.spotify.com/track/5QgAU6JV10POSDtMvJD6XS |
