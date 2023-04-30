@@ -115,3 +115,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | The click                         | Fania All Stars           | https://open.spotify.com/track/08saZVXxY3XjNRyoLsQMO9 |
 | Oriente                           | Henry Fiol                | https://open.spotify.com/track/5T4ZIMPGpeEmb6nuD4iyhv |
 | Pancho el loco                    | Hermanos Lebron           | not found                                             |
+| Me curo con rumba                 | Ismael Miranda            | not found                                             |
+| Me das motivo                     | Willie Colon              | https://open.spotify.com/track/4WIP8yqnqNNPSBoyGrhOVI |
