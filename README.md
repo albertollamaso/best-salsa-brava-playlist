@@ -243,3 +243,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Idilio                            | Willie Colon                | https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR |
 | Temes                             | Vitin Aviles                | https://open.spotify.com/track/2P0Q1e1oyMIcuFJeV8sOIZ |
 | Poco pelo                         | Orquesta America            | https://open.spotify.com/track/1DXm1Xt7FEwGsxNplCikuH |
+| Con poco coco                     | Bebo Valdes                 | https://open.spotify.com/track/009xBMLoSsX2qPGhh3sEdk |
