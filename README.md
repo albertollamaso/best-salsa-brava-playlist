@@ -298,3 +298,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Gavilan                           | Chivirico Davila             | https://open.spotify.com/track/5Mn9dTNEKKkLhjscm82ctn |
 | Julio el gitano                   | Charanga America             | https://open.spotify.com/track/0uwEinvCjFSz6584Hvu8ZY |
 | Mucho amor                        | Hector Lavoe                 | https://open.spotify.com/track/62Tyr8kaAB6JtsVQMakofO |
+| Tres cosas                        | Chu Linares                  | https://open.spotify.com/track/5hY6tFkMjhqIEJk9xv2FO1 |
