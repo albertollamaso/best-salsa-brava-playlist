@@ -274,3 +274,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Al pasito cañandonga              | Cali Charanga                | https://open.spotify.com/track/2ogSJN72CTS9nGWAaUynZb |
 | El amor vendra                    | Grupo Niche                  | not found                                             |
 | Juana Peña                        | Hector Lavoe                 | not found                                             |
+| Me gusta boogaloo                 | Carlos Hayre y su Oquesta    | not found                                             |
