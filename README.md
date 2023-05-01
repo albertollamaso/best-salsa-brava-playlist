@@ -369,3 +369,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El licor de tu boquita            | Gran Combo De Puerto Rico      | https://open.spotify.com/track/000P83HDtOHcNVFZy7Q2Yu |
 | Loco                              | Hector Lavoe                   | https://open.spotify.com/track/5sR8QlZ63YSyrbOIUdqHFt |
 | Mary                              | Joe Arroyo                     | https://open.spotify.com/track/1xhbHwBxJQRFspwTEElXvC |
+| Soledad                           | La 33                          | https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ |
