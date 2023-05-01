@@ -189,3 +189,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Huracan                           | Bobby Valentin            | https://open.spotify.com/track/1QAZESj00Kr9jYcOcvHRh6 |
 | Viento en popa                    | Willie Rosario            | not found                                             |
 | Sobre una tumba humilde           | Cheo Feliciano            | https://open.spotify.com/track/7sgmU7z3ymJxyLJv4jE0Jw |
+| Mi sueño                          | Willie Colon              | https://open.spotify.com/track/7L1SGKE5a8GeCY03uY4XUS |
