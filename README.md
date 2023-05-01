@@ -178,3 +178,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Estas equivocado                  | Roberto Roena             | https://open.spotify.com/track/0mvztyjjbkjlNZ2vBSogkh |
 | El cantar de los piñales          | Pete El Conde Rodriguez   | not found                                             |
 | Y no hago mas na'                 | Gran Combo De Puerto Rico | https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5 |
+| Solo fuiste una mas               | Raphy Leavitt             | https://open.spotify.com/track/38acO21HVqXmhMTpEP8IvM |
+| Ah ah o no                        | Hector Lavoe              | not found                                             |
