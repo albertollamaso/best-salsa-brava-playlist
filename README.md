@@ -246,3 +246,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Con poco coco                     | Bebo Valdes                  | https://open.spotify.com/track/009xBMLoSsX2qPGhh3sEdk |
 | Guaguanco del tren latino         | Eddy Wilson y Su Tren Latino | not found                                             |
 | Cupido                            | Gran Combo De Puerto Rico    | https://open.spotify.com/track/7rzFSKXJqTdsz3tFQRBZpq |
+| I like it like that               | Pete El Conde Rodriguez      | https://open.spotify.com/track/2xDg6qp32eKpcyvEZ5sZBq |
