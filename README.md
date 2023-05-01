@@ -135,3 +135,11 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Ladron de tu amor                 | Louie Ramirez             | https://open.spotify.com/track/1OFZtxPXgzgEkMmzoQz8Nr |
 | Que sorpresa                      | Los Van Van de Cuba       | https://open.spotify.com/track/4rKsC8uJnWrcDj3NQpAgqu |
 | No se va poder                    | Orquesta Broadway         | https://open.spotify.com/track/7LQKvtsOKCMsyk8xe1Aysr |
+| Que bueno baila usted             | Oscar D' Leon             | https://open.spotify.com/track/1R8upiSmv7U1rRv0qqvIbS |
+| Se te fue la mano                 | Roberto Torres            | https://open.spotify.com/track/6NzkI2gJaKbLaAhsk16YW0 |
+| Salsa y dulzura                   | Ray Barreto               | not found                                             |
+| Perla mala                        | Raphy Leavitt             | https://open.spotify.com/track/7bQATKNZHFaFLuqVVJoGc9 |
+| Pa la rumba                       | Orquesta La Unica         | https://open.spotify.com/track/728LuZe6X7p4EgWOL3Gf3h |
+| Baja y tapa la olla               | Compay Segundo            | https://open.spotify.com/track/34aeYmdgiG4eTmMZy1avpc |
+| Punto final                       | Pete El Conde Rodriguez   | https://open.spotify.com/track/6FltlFGoubwjWEc4LJxY2r |
+| Conquista mayor                   | Charanga America          | https://open.spotify.com/track/6ObqP7P0Y6tYEKUpLXZRmM |
