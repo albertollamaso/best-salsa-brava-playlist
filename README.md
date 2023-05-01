@@ -340,3 +340,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El preso                          | Fruko y Sus Tesos              | https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q |
 | Ana mile                          | Grupo Niche                    | https://open.spotify.com/track/7iAeeOpxapvNjgLJ1myLfX |
 | Corazon                           | Roy Carmona y La Conquistadora | not found                                             |
+| Tumbao                            | Fuerza Latina                  | not found                                             |
+| En puerta de tierra               | Joe Quijano                    | https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g |
