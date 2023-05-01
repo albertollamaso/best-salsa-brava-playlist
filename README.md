@@ -357,3 +357,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El yerbero moderno                | Celia Cruz                     | not found                                             |
 | Mambo tata                        | Richie Ray & Bobby Cruz        | not found                                             |
 | Fue varon                         | Ruben Blades                   | https://open.spotify.com/track/4EpgV9FxuRyUqAlfQQWSBz |
+| Salud dinero y amor               | Orquesta Novel                 | https://open.spotify.com/track/4OSdftJXrQkaYpzfh6EFWB |
