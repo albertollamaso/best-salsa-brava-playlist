@@ -176,3 +176,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La guerra de los callados         | Joe Arroyo                | https://open.spotify.com/track/22jgw0WqjF05f22pmXOTC6 |
 | Magdalena                         | La Conspiracion           | https://open.spotify.com/track/6Sh5qYcUgtlj2OJ6UU8Au9 |
 | Estas equivocado                  | Roberto Roena             | https://open.spotify.com/track/0mvztyjjbkjlNZ2vBSogkh |
+| El cantar de los piñales          | Pete El Conde Rodriguez   | not found                                             |
+| Y no hago mas na'                 | Gran Combo De Puerto Rico | https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5 |
