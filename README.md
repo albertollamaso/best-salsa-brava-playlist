@@ -386,3 +386,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Llora corazon                     | Nelson y Sus Estrellas         | https://open.spotify.com/track/0jyanoD8H4dJGhUWVMmGSV |
 | Te estan buscando                 | Ruben Blades                   | https://open.spotify.com/track/3BBNvpNb4uBGetyf5R34ac |
 | La pachanga                       | Salsa Ritmo Caliente           | not found                                             |
+| Todo tiene su final               | Hector Lavoe                   | not found                                             |
