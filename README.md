@@ -168,3 +168,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Un dia bonito                     | Eddie Palmieri            | https://open.spotify.com/track/0qP9VsxgqMYOv0Eb4lUjTC |
 | El camino equivocado              | Pedro Conga               | https://open.spotify.com/track/0w9YG7FWrtndaTeXIaqEHX |
 | Margot                            | Lucho Macedo              | https://open.spotify.com/track/3dSmPK7hxlgGFihEiNHPvC |
+| Melao de caña                     | Oscar D' Leon             | https://open.spotify.com/track/1lk8KdJx6OzDmbb0ITX7JI |
+| Claudia                           | Jonah Jones               | https://open.spotify.com/track/4h7K94EsV18xmO411FwCXC |
