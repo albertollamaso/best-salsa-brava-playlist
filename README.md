@@ -273,3 +273,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Nadie baila como yo               | Bobby Matos                  | https://open.spotify.com/track/24MEIr5l4Ry8mMUWiwmlLN |
 | Al pasito cañandonga              | Cali Charanga                | https://open.spotify.com/track/2ogSJN72CTS9nGWAaUynZb |
 | El amor vendra                    | Grupo Niche                  | not found                                             |
+| Juana Peña                        | Hector Lavoe                 | not found                                             |
