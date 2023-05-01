@@ -198,3 +198,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El viejito cañandonga             | Trio Servando Diaz          | https://open.spotify.com/track/1BUAXjtLb3eo0CTnrNKBB9 |
 | Cuando aprenda de los maestros    | 3-2 Get Funky               | https://open.spotify.com/track/5TirnjEcIbFxC2yrGIIkph |
 | Vive y vacila                     | Ray Barreto                 | not found                                             |
+| Salsa cuero y bongo               | Fruko y Sus Tesos           | not found                                             |
