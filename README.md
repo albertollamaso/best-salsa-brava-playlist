@@ -337,3 +337,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Canguil con salsa                 | Hector Bonilla               | https://open.spotify.com/track/1jZUsjrRDAPcv209JAl7jc |
 | Copas y amigos                    | Ismael Miranda               | https://open.spotify.com/track/5SDdnAVwr5DfXDzQWhpLw0 |
 | Camaron                           | Fredy Fender                 | not found                                             |
+| El preso                          | Fruko y Sus Tesos            | https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q |
