@@ -173,3 +173,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | No me hace falta                  | Hermanos Lebron           | not found                                             |
 | Amparo arrebato                   | Richie Ray & Bobby Cruz   | https://open.spotify.com/track/25v6NPLpeB1G8I6coZq5j7 |
 | Cuidate bien                      | Ismael Miranda            | https://open.spotify.com/track/0sQhZrDQHYLEPMfgJnnD9q |
+| La guerra de los callados         | Joe Arroyo                | https://open.spotify.com/track/22jgw0WqjF05f22pmXOTC6 |
