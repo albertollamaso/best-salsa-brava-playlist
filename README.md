@@ -150,3 +150,6 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Te lo voy a jurar                 | Roberto Roena             | https://open.spotify.com/track/7FsOwBXHVkykeEY9CVGA03 |
 | Timbalero                         | Hector Lavoe              | https://open.spotify.com/track/5Oe7dtw4xrfSiyTDPZZbiU |
 | Burundanga                        | Celia Cruz                | https://open.spotify.com/track/4i9h1RmR8uCpVktOPbIrAV |
+| Anuncio clasificado               | Willie Rosario            | https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u |
+| Oye Mima                          | Sonora Matancera          | https://open.spotify.com/track/3FVwM3pxQGyItSdYet211q |
+| Decisiones                        | Ruben Blades              | https://open.spotify.com/track/4XTtPhMyEumsU8E1ufUomw |
