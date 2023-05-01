@@ -361,3 +361,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Lupita                            | Perez Prado                    | https://open.spotify.com/track/3rVLMWXpMfjxbkPVwqiDJR |
 | Triste y vacia                    | Hector Lavoe                   | https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc |
 | Apagame el fuego                  | Hermanos Lebron                | not found                                             |
+| Canta al amor                     | Sonora Ponceña                 | not found                                             |
+| La esquina del movimiento         | Sonora Matancera               | https://open.spotify.com/track/28eTHRQGyFfQPqzwNWCYws |
