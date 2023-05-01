@@ -233,3 +233,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Las guajiras                      | Mongo Santamaria            | https://open.spotify.com/track/29qQJ0FjbbqFljI5j1U3HB |
 | Fuego y candela                   | Adalberto Santiago          | https://open.spotify.com/track/1VAxIQsYaf5uRGeYWoukdM |
 | Dos gardenias                     | Angel Canales               | https://open.spotify.com/track/4GUzyWtooDC3cx30yeCyzk |
+| Plastico                          | Ruben Blades                | https://open.spotify.com/track/7oM8c6GpYElygIj88iALur |
