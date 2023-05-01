@@ -211,3 +211,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Sonero                            | Pete El Conde Rodriguez     | https://open.spotify.com/track/3r9GcWIPQnNbbGpZ9U5KXW |
 | Primero y que                     | Grupo Niche                 | https://open.spotify.com/track/0sdn7O9lflE1GgapAS8TUp |
 | Chan chan                         | Buena Vista Social Club     | https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU |
+| La fama                           | Hector Lavoe                | https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4 |
