@@ -353,3 +353,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Rumba rumbero                     | Oscar D' Leon                  | https://open.spotify.com/track/0Ev9RP0AYbriwrMcpKWf8I |
 | El cerquillo                      | Orquesta La Criolla            | https://open.spotify.com/track/0UPhXmhQhFaCgSBtK4sXND |
 | La juma de ayer                   | Henry Fiol                     | https://open.spotify.com/track/3pL77Aed5ZBnS5IRjPcGF4 |
+| Mi barrio                         | Impacto Crea                   | https://open.spotify.com/track/0yeuifcibRTWWhRjZnwTb0 |
