@@ -167,3 +167,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Oye como va                       | Joe Cuba                  | https://open.spotify.com/track/7hG9pJUET607EXyrMRtj7i |
 | Un dia bonito                     | Eddie Palmieri            | https://open.spotify.com/track/0qP9VsxgqMYOv0Eb4lUjTC |
 | El camino equivocado              | Pedro Conga               | https://open.spotify.com/track/0w9YG7FWrtndaTeXIaqEHX |
+| Margot                            | Lucho Macedo              | https://open.spotify.com/track/3dSmPK7hxlgGFihEiNHPvC |
