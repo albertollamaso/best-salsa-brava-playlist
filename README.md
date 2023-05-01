@@ -318,3 +318,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El chivo de la campana            | Cortijo y su Combo           | https://open.spotify.com/track/5T0DSMeg9DWhduSOL1UmMC |
 | Dolores                           | Joe Cotto y Su Orquesta      | https://open.spotify.com/track/03u0MP4sbGN7IS5goNHLzj |
 | Ausencia                          | Hector Lavoe                 | https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP |
+| Prende el fogon                   | Sonora Ponceña               | https://open.spotify.com/track/5o1kiwkFXoJET4FW4pKtlE |
+| El muñeco de la ciudad            | Sonora Matancera             | https://open.spotify.com/track/7AFel5zA2H9UDWmsGQD2zP |
