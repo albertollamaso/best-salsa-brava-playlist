@@ -309,3 +309,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El negrito de la salsa            | Fiebre Latina                | not found                                             |
 | Ponte en ritmo                    | Tabaco                       | https://open.spotify.com/track/3NEvSrSkhffy8qXzyFIRie |
 | Mañana me caso contigo            | Conjunto Universal           | https://open.spotify.com/track/3ITMDUrGCgxhzlyP0b3DlJ |
+| La mano                           | Oscar D' Leon                | https://open.spotify.com/track/2ObNFrr0SZgmWENYghB4HS |
+| Mi pachanga                       | His Orchestra                | https://open.spotify.com/track/0L5SDBjE5IjjpmmxqV8TX1 |
