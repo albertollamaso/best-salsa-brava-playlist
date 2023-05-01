@@ -216,3 +216,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El negro                          | Sexteto Juventud            | not found                                             |
 | Yo no soy un angel                | Cheo Feliciano              | https://open.spotify.com/track/4nur5E28uaJE1vgqHJjIQg |
 | Los fariseos                      | Richie Ray & Bobby Cruz     | https://open.spotify.com/track/56FnzYd9Ms90sKVCBZ3g1q |
+| Mambo gallego                     | Tito Puente                 | https://open.spotify.com/track/79fIO8wks5P9MZJnUpiNYx |
+| La vi bailando                    | Orquesta Novel              | https://open.spotify.com/track/5rrqHe0EfVTBfScnaf7K8n |
