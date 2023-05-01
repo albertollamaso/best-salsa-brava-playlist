@@ -175,3 +175,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Cuidate bien                      | Ismael Miranda            | https://open.spotify.com/track/0sQhZrDQHYLEPMfgJnnD9q |
 | La guerra de los callados         | Joe Arroyo                | https://open.spotify.com/track/22jgw0WqjF05f22pmXOTC6 |
 | Magdalena                         | La Conspiracion           | https://open.spotify.com/track/6Sh5qYcUgtlj2OJ6UU8Au9 |
+| Estas equivocado                  | Roberto Roena             | https://open.spotify.com/track/0mvztyjjbkjlNZ2vBSogkh |
