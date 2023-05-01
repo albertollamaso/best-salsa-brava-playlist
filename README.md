@@ -289,3 +289,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Suena tu bongo                    | Sonora Ponceña               | https://open.spotify.com/track/1EFyJRIwWFuVTtmdvaMeI3 |
 | El divorcio                       | Charlie Rodriguez            | not found                                             |
 | Tiempo pa' matar                  | Willie Colon                 | https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8 |
+| Don goyo                          | Gran Combo De Puerto Rico    | https://open.spotify.com/track/0T2YNMt8oiIHpXybPX7v5U |
