@@ -143,3 +143,8 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Baja y tapa la olla               | Compay Segundo            | https://open.spotify.com/track/34aeYmdgiG4eTmMZy1avpc |
 | Punto final                       | Pete El Conde Rodriguez   | https://open.spotify.com/track/6FltlFGoubwjWEc4LJxY2r |
 | Conquista mayor                   | Charanga America          | https://open.spotify.com/track/6ObqP7P0Y6tYEKUpLXZRmM |
+| Serrana                           | Gran Combo De Puerto Rico | https://open.spotify.com/track/7muc8NyIRrWJLe13SWmLSw |
+| Flauta y timbal                   | Tito Puente               | https://open.spotify.com/track/7LiCA9qOUcnihDjqIDYBrE |
+| Vestida de blanco                 | Sexteto Juventud          | https://open.spotify.com/track/1WRJnNO96hYZFNypSQVmDO |
+| Acuyuye                           | Johnny Pacheco            | https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj |
+| Te lo voy a jurar                 | Roberto Roena             | https://open.spotify.com/track/7FsOwBXHVkykeEY9CVGA03 |
