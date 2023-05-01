@@ -345,3 +345,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Teresita                          | Guayacan Orquesta              | https://open.spotify.com/track/4DMGlTFuDFUtfCIfgolbxF |
 | Por alguien que se fue            | Gunda Merced                   | https://open.spotify.com/track/0hDh0U6OjWIQBS3RrTXxpx |
 | El cantante                       | Hector Lavoe                   | https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO |
+| Maria Teresa y Danilo             | Hansel & Raul                  | https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4 |
