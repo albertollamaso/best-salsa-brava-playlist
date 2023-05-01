@@ -322,3 +322,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El muñeco de la ciudad            | Sonora Matancera             | https://open.spotify.com/track/7AFel5zA2H9UDWmsGQD2zP |
 | Camino al barrio                  | Willie Colon                 | https://open.spotify.com/track/3wyodhWgHK9k8DovEfTX4D |
 | Corazon de acero                  | Cuco Valoy                   | https://open.spotify.com/track/0PfnQZ54r2ftZZ62TA2EyP |
+| Temperatura                       | Hermanos Lebron              | not found                                             |
