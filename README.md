@@ -334,3 +334,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Antologia del son                 | Franklin Veloz               | not found                                             |
 | Tengo un tumbao                   | Fuego 77                     | https://open.spotify.com/track/0EgKf6IaOOTQI5ixlzFpnw |
 | Vereda tropical                   | Orquesta Kubavana            | https://open.spotify.com/track/1WxJCylglXg7AkBNvU9Sfr |
+| Canguil con salsa                 | Hector Bonilla               | https://open.spotify.com/track/1jZUsjrRDAPcv209JAl7jc |
