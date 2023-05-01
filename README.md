@@ -375,3 +375,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Sigue tu camino                   | Oscar D' Leon                  | https://open.spotify.com/track/6xNpqeKBaQzm0nmO24LqCt |
 | Cuero estirao                     | Johnny Colon                   | https://open.spotify.com/track/2qlwV1mr9UvIH3uKvHTLSH |
 | Sonido bestial                    | Richie Ray & Bobby Cruz        | https://open.spotify.com/track/3ouNYFFQeYMJXjqGK0S1hM |
+| Amor fugaz                        | Juan Manuel Lebron             | https://open.spotify.com/track/6VzNrrPyJ4Yqa8xlOt3JVW |
+| Mami me gusto                     | La Conquistadora               | https://open.spotify.com/track/2mTopOsUePlGpKjqWXUO87 |
