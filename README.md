@@ -356,3 +356,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Mi barrio                         | Impacto Crea                   | https://open.spotify.com/track/0yeuifcibRTWWhRjZnwTb0 |
 | El yerbero moderno                | Celia Cruz                     | not found                                             |
 | Mambo tata                        | Richie Ray & Bobby Cruz        | not found                                             |
+| Fue varon                         | Ruben Blades                   | https://open.spotify.com/track/4EpgV9FxuRyUqAlfQQWSBz |
