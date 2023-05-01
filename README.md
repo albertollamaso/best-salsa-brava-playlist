@@ -220,3 +220,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La vi bailando                    | Orquesta Novel              | https://open.spotify.com/track/5rrqHe0EfVTBfScnaf7K8n |
 | Vigilandote                       | Roberto Roena               | not found                                             |
 | Matunga                           | Conjunto Clasico            | https://open.spotify.com/track/53feHKsMTbu3DKHCQRxoXL |
+| Contigo aprendi                   | Cheo Feliciano              | https://open.spotify.com/track/55U8RnuhqDrVNWbN0vFds0 |
+| Ojitos chinos                     | Gran Combo De Puerto Rico   | not found                                             |
