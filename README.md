@@ -207,3 +207,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Yamulemau                         | Joe Arroyo                  | https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45 |
 | Soy feliz                         | Ismael Rivera               | https://open.spotify.com/track/5x0psqrizkI9QJzKTcrlJs |
 | Compañera mia                     | Gran Combo De Puerto Rico   | https://open.spotify.com/track/6ufaXug2WpXBvS5qirBCkV |
+| Abre que voy                      | Los Van Van de Cuba         | not found                                             |
