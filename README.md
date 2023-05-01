@@ -252,3 +252,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Señora ley                        | Conjunto Clasico             | https://open.spotify.com/track/5DtgZDktHvgUPW6tfOWXm8 |
 | Oriente                           | Joe Cuba                     | https://open.spotify.com/track/0GfXmyf7E77OJAdLCQjA1N |
 | Somos los reyes del mundo         | Alfredo de la Fe             | https://open.spotify.com/track/2u0DVZn5xoiiHYjZ92B7Ed |
+| La palomita                       | Los Titanes                  | https://open.spotify.com/track/2RuotgYvOG3ceEKhj3SEO6 |
+| Guapachando                       | Lucho Macedo                 | https://open.spotify.com/track/50e4r0NhO46D3qIBSeAp7p |
