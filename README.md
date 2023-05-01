@@ -203,3 +203,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El carretero                      | Guillermo Portabales        | https://open.spotify.com/track/5UxSH2QqmPlfeoqspQVZEA |
 | Que pena                          | Hermanos Lebron             | not found                                             |
 | Madre                             | Ismael Miranda              | https://open.spotify.com/track/6UI2TO1WPfiU3wFG4TELtD |
+| Lluvia con nieve                  | Mon Rivera                  | https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg |
+| Yamulemau                         | Joe Arroyo                  | https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45 |
