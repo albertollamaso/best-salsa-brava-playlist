@@ -283,3 +283,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Tanto y tanto                     | Canelita                     | https://open.spotify.com/track/3IcWBQqH0QUVPT8BMPGCTj |
 | El lago de los cisnes             | Cerafin y su Combo           | not found                                             |
 | La casa de estanislao             | Belisario Lopez              | https://open.spotify.com/track/38wulTkARtasuZuS6F5mtg |
+| Mala mujer                        | Sonora Matancera             | https://open.spotify.com/track/3dGFlXjz6eRgtJoVuPo1nx |
+| Nadie se salva de la rumba        | Los Maraqueros               | https://open.spotify.com/track/2gOkQ4T6cBphLsW2AuiPqE |
