@@ -390,3 +390,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Mata que Dios perdona             | Jorge Cabrera                  | https://open.spotify.com/track/0otHlkah1rTg7a9fpf0bl8 |
 | Guerrera                          | Jose Bello                     | https://open.spotify.com/track/5SjSw0CBre0ng0qcTskhBL |
 | El rey del guaguanco              | La Familia Orchestra           | not found                                             |
+| Amo mi soledad                    | La Rebelion                    | not found                                             |
