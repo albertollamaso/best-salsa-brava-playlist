@@ -331,3 +331,6 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Watusi                            | Tulio Enrique Leon           | not found                                             |
 | Yo vine pa' ver                   | Joe Cuba                     | https://open.spotify.com/track/128UtZYtUJSXwnExUT4CTD |
 | Emborrachame de amor              | Hector Lavoe                 | https://open.spotify.com/track/0eQoYvZRyqh3FE8GNSKUJ9 |
+| Antologia del son                 | Franklin Veloz               | not found                                             |
+| Tengo un tumbao                   | Fuego 77                     | https://open.spotify.com/track/0EgKf6IaOOTQI5ixlzFpnw |
+| Vereda tropical                   | Orquesta Kubavana            | https://open.spotify.com/track/1WxJCylglXg7AkBNvU9Sfr |
