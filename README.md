@@ -368,3 +368,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Listo medellin                    | Grupo Niche                    | https://open.spotify.com/track/0irGrW0zW3BZdqWe518knd |
 | El licor de tu boquita            | Gran Combo De Puerto Rico      | https://open.spotify.com/track/000P83HDtOHcNVFZy7Q2Yu |
 | Loco                              | Hector Lavoe                   | https://open.spotify.com/track/5sR8QlZ63YSyrbOIUdqHFt |
+| Mary                              | Joe Arroyo                     | https://open.spotify.com/track/1xhbHwBxJQRFspwTEElXvC |
