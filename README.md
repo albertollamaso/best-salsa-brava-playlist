@@ -344,3 +344,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | En puerta de tierra               | Joe Quijano                    | https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g |
 | Teresita                          | Guayacan Orquesta              | https://open.spotify.com/track/4DMGlTFuDFUtfCIfgolbxF |
 | Por alguien que se fue            | Gunda Merced                   | https://open.spotify.com/track/0hDh0U6OjWIQBS3RrTXxpx |
+| El cantante                       | Hector Lavoe                   | https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO |
