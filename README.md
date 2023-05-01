@@ -241,3 +241,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Esta de bala                      | Orlando Marin               | https://open.spotify.com/track/7FlrtjGB7Ea38tPjVbkHFd |
 | Siempre alegre                    | Raphy Leavitt               | https://open.spotify.com/track/4VkcFxrSHvqe1zdm8YOQyp |
 | Idilio                            | Willie Colon                | https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR |
+| Temes                             | Vitin Aviles                | https://open.spotify.com/track/2P0Q1e1oyMIcuFJeV8sOIZ |
+| Poco pelo                         | Orquesta America            | https://open.spotify.com/track/1DXm1Xt7FEwGsxNplCikuH |
