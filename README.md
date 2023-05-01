@@ -281,3 +281,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Solitario                         | Conjunto Clasico             | https://open.spotify.com/track/0FW28wRArRJSuWnHwE415S |
 | Aprende muchacho                  | Orquesta Aragon              | https://open.spotify.com/track/5KUjSvEzkszU2q2Ge6aqCw |
 | Tanto y tanto                     | Canelita                     | https://open.spotify.com/track/3IcWBQqH0QUVPT8BMPGCTj |
+| El lago de los cisnes             | Cerafin y su Combo           | not found                                             |
+| La casa de estanislao             | Belisario Lopez              | https://open.spotify.com/track/38wulTkARtasuZuS6F5mtg |
