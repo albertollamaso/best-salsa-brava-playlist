@@ -278,3 +278,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Caminando                         | Ruben Blades                 | https://open.spotify.com/track/4vS6BV4FwGjhbspGFWSA0p |
 | Salsa y control                   | Hermanos Lebron              | not found                                             |
 | Azucar negra                      | Celia Cruz                   | https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw |
+| Solitario                         | Conjunto Clasico             | https://open.spotify.com/track/0FW28wRArRJSuWnHwE415S |
