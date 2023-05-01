@@ -159,3 +159,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Usted abuso                       | Celia Cruz                | https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo |
 | Gitana                            | Willie Colon              | https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt |
 | Los entierros                     | Cheo Feliciano            | https://open.spotify.com/track/5qpiCrqQkLKXiQKvRtRO6i |
+| Carbonerito                       | Gran Combo De Puerto Rico | https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ |
