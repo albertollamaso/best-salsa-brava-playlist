@@ -391,3 +391,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Guerrera                          | Jose Bello                     | https://open.spotify.com/track/5SjSw0CBre0ng0qcTskhBL |
 | El rey del guaguanco              | La Familia Orchestra           | not found                                             |
 | Amo mi soledad                    | La Rebelion                    | not found                                             |
+| Cuero na'ma                       | Jose Mangual Jr                | https://open.spotify.com/track/4Y8z5a0QNmBCbIEGB4WTvI |
+| Ave maria lola                    | Sonora Matancera               | https://open.spotify.com/track/6fn4OSNG7SPNqiPJG8R5oq |
