@@ -323,3 +323,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Camino al barrio                  | Willie Colon                 | https://open.spotify.com/track/3wyodhWgHK9k8DovEfTX4D |
 | Corazon de acero                  | Cuco Valoy                   | https://open.spotify.com/track/0PfnQZ54r2ftZZ62TA2EyP |
 | Temperatura                       | Hermanos Lebron              | not found                                             |
+| Bajo con tumbao                   | Eddie Palmieri               | https://open.spotify.com/track/0PkaklBwK3aSMGj6am8C3F |
+| Llego superman                    | Don Filemon y su Banda       | https://open.spotify.com/track/6clxWC8u1XBhq05EhKdAse |
