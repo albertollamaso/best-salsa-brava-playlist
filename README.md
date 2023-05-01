@@ -202,3 +202,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Vamonos pa'l monte                | Eddie Palmieri              | https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId |
 | El carretero                      | Guillermo Portabales        | https://open.spotify.com/track/5UxSH2QqmPlfeoqspQVZEA |
 | Que pena                          | Hermanos Lebron             | not found                                             |
+| Madre                             | Ismael Miranda              | https://open.spotify.com/track/6UI2TO1WPfiU3wFG4TELtD |
