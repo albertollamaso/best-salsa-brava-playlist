@@ -378,3 +378,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Amor fugaz                        | Juan Manuel Lebron             | https://open.spotify.com/track/6VzNrrPyJ4Yqa8xlOt3JVW |
 | Mami me gusto                     | La Conquistadora               | https://open.spotify.com/track/2mTopOsUePlGpKjqWXUO87 |
 | Dile                              | Johnny Pacheco                 | https://open.spotify.com/track/62UU7gDvBoyyZ07KQ7ST0i |
+| Yo no bailo con Juana             | Orquesta Aragon                | https://open.spotify.com/track/50lhEMjjK8CD6h5vZMACDy |
