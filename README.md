@@ -387,3 +387,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Te estan buscando                 | Ruben Blades                   | https://open.spotify.com/track/3BBNvpNb4uBGetyf5R34ac |
 | La pachanga                       | Salsa Ritmo Caliente           | not found                                             |
 | Todo tiene su final               | Hector Lavoe                   | not found                                             |
+| Mata que Dios perdona             | Jorge Cabrera                  | https://open.spotify.com/track/0otHlkah1rTg7a9fpf0bl8 |
