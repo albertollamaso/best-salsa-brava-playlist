@@ -364,3 +364,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Canta al amor                     | Sonora Ponceña                 | not found                                             |
 | La esquina del movimiento         | Sonora Matancera               | https://open.spotify.com/track/28eTHRQGyFfQPqzwNWCYws |
 | Toma mis manos                    | Willie Colon                   | https://open.spotify.com/track/48jZRDondCHOUuvTxpqU6F |
+| Salchicha con huevo               | Jimmy Sabater                  | https://open.spotify.com/track/15ckU9MxUByqY1Knnn7RIZ |
