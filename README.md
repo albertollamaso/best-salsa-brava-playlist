@@ -208,3 +208,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Soy feliz                         | Ismael Rivera               | https://open.spotify.com/track/5x0psqrizkI9QJzKTcrlJs |
 | Compañera mia                     | Gran Combo De Puerto Rico   | https://open.spotify.com/track/6ufaXug2WpXBvS5qirBCkV |
 | Abre que voy                      | Los Van Van de Cuba         | not found                                             |
+| Sonero                            | Pete El Conde Rodriguez     | https://open.spotify.com/track/3r9GcWIPQnNbbGpZ9U5KXW |
