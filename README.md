@@ -148,3 +148,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Vestida de blanco                 | Sexteto Juventud          | https://open.spotify.com/track/1WRJnNO96hYZFNypSQVmDO |
 | Acuyuye                           | Johnny Pacheco            | https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj |
 | Te lo voy a jurar                 | Roberto Roena             | https://open.spotify.com/track/7FsOwBXHVkykeEY9CVGA03 |
+| Timbalero                         | Hector Lavoe              | https://open.spotify.com/track/5Oe7dtw4xrfSiyTDPZZbiU |
+| Burundanga                        | Celia Cruz                | https://open.spotify.com/track/4i9h1RmR8uCpVktOPbIrAV |
