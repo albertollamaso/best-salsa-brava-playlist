@@ -130,3 +130,8 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Cari caridad                      | Larry Harlow              | not found                                             |
 | Rompiendo violin                  | Jovenes Del Hierro        | https://open.spotify.com/track/46TE45VANIaItMBUbsWFTk |
 | Richie's jala jala                | Richie Ray & Bobby Cruz   | https://open.spotify.com/track/5168U0L9JW0QWszjyrBogt |
+| Mulato rumbero                    | Nacho Sanabria            | https://open.spotify.com/track/2yrQSx7ZvUMraDIoU36kP9 |
+| Mi ritmo es bueno                 | Bobby Valentin            | https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye |
+| Ladron de tu amor                 | Louie Ramirez             | https://open.spotify.com/track/1OFZtxPXgzgEkMmzoQz8Nr |
+| Que sorpresa                      | Los Van Van de Cuba       | https://open.spotify.com/track/4rKsC8uJnWrcDj3NQpAgqu |
+| No se va poder                    | Orquesta Broadway         | https://open.spotify.com/track/7LQKvtsOKCMsyk8xe1Aysr |
