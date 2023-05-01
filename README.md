@@ -342,3 +342,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Corazon                           | Roy Carmona y La Conquistadora | not found                                             |
 | Tumbao                            | Fuerza Latina                  | not found                                             |
 | En puerta de tierra               | Joe Quijano                    | https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g |
+| Teresita                          | Guayacan Orquesta              | https://open.spotify.com/track/4DMGlTFuDFUtfCIfgolbxF |
