@@ -257,3 +257,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Los cocacolos                     | Roberto De La Barrera        | not found                                             |
 | El rey de la puntualidad          | Hector Lavoe                 | https://open.spotify.com/track/3pjv8MMluyxsviQmrCPX1s |
 | Dime por que                      | Ismael Rivera                | https://open.spotify.com/track/2sw9MhaAR1tOLIzmMwyU4Y |
+| En barranquilla me quedo          | Joe Arroyo                   | https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR |
+| Tiahuanaco                        | Alfredo Linares              | https://open.spotify.com/track/0rytuJ6PtOgVAzbzzkiv29 |
