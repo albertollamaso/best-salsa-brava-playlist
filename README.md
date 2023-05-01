@@ -239,3 +239,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La enamorada de un amigo mio      | Sonora Matancera            | not found                                             |
 | Longina                           | Oscar D' Leon               | https://open.spotify.com/track/2lzZhxj5WeqClShJWrlTax |
 | Esta de bala                      | Orlando Marin               | https://open.spotify.com/track/7FlrtjGB7Ea38tPjVbkHFd |
+| Siempre alegre                    | Raphy Leavitt               | https://open.spotify.com/track/4VkcFxrSHvqe1zdm8YOQyp |
