@@ -224,3 +224,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Ojitos chinos                     | Gran Combo De Puerto Rico   | not found                                             |
 | Tapando el hueco                  | Grupo Niche                 | https://open.spotify.com/track/2cBgHBOqMoEu3vELWmCHX7 |
 | Tiempos pasados                   | Hector Lavoe                | https://open.spotify.com/track/2ll3Bk2lkOBafLoj1AUePb |
+| Adoracion                         | Eddie Palmieri              | https://open.spotify.com/track/0utdXOO8ruDHZGXo0UuTQF |
