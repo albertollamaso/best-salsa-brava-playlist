@@ -279,3 +279,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Salsa y control                   | Hermanos Lebron              | not found                                             |
 | Azucar negra                      | Celia Cruz                   | https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw |
 | Solitario                         | Conjunto Clasico             | https://open.spotify.com/track/0FW28wRArRJSuWnHwE415S |
+| Aprende muchacho                  | Orquesta Aragon              | https://open.spotify.com/track/5KUjSvEzkszU2q2Ge6aqCw |
+| Tanto y tanto                     | Canelita                     | https://open.spotify.com/track/3IcWBQqH0QUVPT8BMPGCTj |
