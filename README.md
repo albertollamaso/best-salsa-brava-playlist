@@ -382,3 +382,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Oriza                             | La Conspiracion                | https://open.spotify.com/track/2eYCO23jSM1SRBT2WoUrAt |
 | Oye nicola                        | Johnny Zamot                   | not found                                             |
 | Tremendo rumbon                   | Joe Cuba                       | https://open.spotify.com/track/5X3uNlWuAsPjjJTSwcyaoh |
+| Monin                             | La Dicupe                      | https://open.spotify.com/track/4v1CwTBQcEeCJyHW9Gvw6d |
+| Llora corazon                     | Nelson y Sus Estrellas         | https://open.spotify.com/track/0jyanoD8H4dJGhUWVMmGSV |
