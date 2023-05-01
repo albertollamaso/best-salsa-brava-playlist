@@ -275,3 +275,6 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El amor vendra                    | Grupo Niche                  | not found                                             |
 | Juana Peña                        | Hector Lavoe                 | not found                                             |
 | Me gusta boogaloo                 | Carlos Hayre y su Oquesta    | not found                                             |
+| Caminando                         | Ruben Blades                 | https://open.spotify.com/track/4vS6BV4FwGjhbspGFWSA0p |
+| Salsa y control                   | Hermanos Lebron              | not found                                             |
+| Azucar negra                      | Celia Cruz                   | https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw |
