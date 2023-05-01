@@ -301,3 +301,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Tres cosas                        | Chu Linares                  | https://open.spotify.com/track/5hY6tFkMjhqIEJk9xv2FO1 |
 | Para que volver                   | Eddie Maldonado              | https://open.spotify.com/track/4IEOtfpwOZBS4zitOTTdLz |
 | La rumba del chinito              | Compay Quinto                | https://open.spotify.com/track/5F88oiBDPockgb32NkUpFf |
+| Cuidado con el perro              | Faustino Oramas              | https://open.spotify.com/track/7h98mHDpSn8ABnd0YxDKHN |
