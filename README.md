@@ -163,3 +163,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El son                            | Hector Lavoe              | https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc |
 | Los rodriguez                     | Conjunto Clasico          | https://open.spotify.com/track/75nwD45qXzxbnLMaLiE2EF |
 | Digo yo                           | Grupo Niche               | https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU |
+| Yo no quiero piedras en mi camino | Ismael Rivera             | https://open.spotify.com/track/1m40HMljgoDBLMaUFvZYDW |
+| Oye como va                       | Joe Cuba                  | https://open.spotify.com/track/7hG9pJUET607EXyrMRtj7i |
