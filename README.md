@@ -184,3 +184,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Creo en ti                        | Ruben Blades              | https://open.spotify.com/track/1srsRQzMPzpsfeMSkMI11g |
 | La carcel                         | Sexteto Juventud          | https://open.spotify.com/track/0fnIHYY5u5dztgKdizQ89C |
 | El barrio                         | Markolino Dimond          | https://open.spotify.com/track/1Y8XsEASQvUGyzPhXOfmfn |
+| Para los rumberos                 | Tito Puente               | https://open.spotify.com/track/2pa96dSFmYfIV284Fivscl |
+| Fuego en el 23                    | Sonora Ponceña            | https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb |
