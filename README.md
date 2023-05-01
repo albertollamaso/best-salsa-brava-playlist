@@ -379,3 +379,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Mami me gusto                     | La Conquistadora               | https://open.spotify.com/track/2mTopOsUePlGpKjqWXUO87 |
 | Dile                              | Johnny Pacheco                 | https://open.spotify.com/track/62UU7gDvBoyyZ07KQ7ST0i |
 | Yo no bailo con Juana             | Orquesta Aragon                | https://open.spotify.com/track/50lhEMjjK8CD6h5vZMACDy |
+| Oriza                             | La Conspiracion                | https://open.spotify.com/track/2eYCO23jSM1SRBT2WoUrAt |
