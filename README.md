@@ -292,3 +292,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Don goyo                          | Gran Combo De Puerto Rico    | https://open.spotify.com/track/0T2YNMt8oiIHpXybPX7v5U |
 | Arrepientete                      | Orquesta Broadway            | https://open.spotify.com/track/4YLvFZvDGNcD4zpoCFnL24 |
 | El pito                           | Cheo Feliciano               | https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY |
+| Alegria                           | Fania All Stars              | not found                                             |
+| Vuelvo a vivir                    | Mon Rivera                   | not found                                             |
