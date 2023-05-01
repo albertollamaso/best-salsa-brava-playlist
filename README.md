@@ -296,3 +296,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Vuelvo a vivir                    | Mon Rivera                   | not found                                             |
 | La negra no quiere                | Grupo Niche                  | https://open.spotify.com/track/7JL6WGipXc8zKkfWjc4G12 |
 | Gavilan                           | Chivirico Davila             | https://open.spotify.com/track/5Mn9dTNEKKkLhjscm82ctn |
+| Julio el gitano                   | Charanga America             | https://open.spotify.com/track/0uwEinvCjFSz6584Hvu8ZY |
+| Mucho amor                        | Hector Lavoe                 | https://open.spotify.com/track/62Tyr8kaAB6JtsVQMakofO |
