@@ -160,3 +160,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Gitana                            | Willie Colon              | https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt |
 | Los entierros                     | Cheo Feliciano            | https://open.spotify.com/track/5qpiCrqQkLKXiQKvRtRO6i |
 | Carbonerito                       | Gran Combo De Puerto Rico | https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ |
+| El son                            | Hector Lavoe              | https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc |
