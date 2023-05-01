@@ -288,3 +288,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Ololiuqui                         | Chaparro y su Orquesta       | https://open.spotify.com/track/2R1fu8o08K8iCKF4hqVsZE |
 | Suena tu bongo                    | Sonora Ponceña               | https://open.spotify.com/track/1EFyJRIwWFuVTtmdvaMeI3 |
 | El divorcio                       | Charlie Rodriguez            | not found                                             |
+| Tiempo pa' matar                  | Willie Colon                 | https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8 |
