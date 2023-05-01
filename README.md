@@ -123,3 +123,7 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Escarcha                          | Hector Lavoe              | https://open.spotify.com/track/0mo8I0fGwUWirxqum46KeK |
 | Rebelion                          | Joe Arroyo                | https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD |
 | El faisan                         | Johnny Pacheco            | https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG |
+| Detalles                          | La Inmensidad             | not found                                             |
+| El negro y ray                    | Ray Barreto               | https://open.spotify.com/track/3JfUKpiQVF59iAsU6c9y8s |
+| No soy para ti                    | Ismael Rivera             | https://open.spotify.com/track/1eo43vgSEjbc6cYPNhdNra |
+| Sangre son colora                 | La Conspiracion           | https://open.spotify.com/track/25hv09LJer5doMbTP96VKb |
