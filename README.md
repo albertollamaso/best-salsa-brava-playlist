@@ -157,3 +157,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La ruñidera                       | Sexteto La Plata          | not found                                             |
 | Te vas de mi                      | Sonora Ponceña            | https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB |
 | Usted abuso                       | Celia Cruz                | https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo |
+| Gitana                            | Willie Colon              | https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt |
+| Los entierros                     | Cheo Feliciano            | https://open.spotify.com/track/5qpiCrqQkLKXiQKvRtRO6i |
