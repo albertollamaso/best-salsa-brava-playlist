@@ -182,3 +182,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Ah ah o no                        | Hector Lavoe              | not found                                             |
 | Ay cosita linda                   | Sonora Matancera          | https://open.spotify.com/track/58Xqaqj8QR2CtLOV3dFOFj |
 | Creo en ti                        | Ruben Blades              | https://open.spotify.com/track/1srsRQzMPzpsfeMSkMI11g |
+| La carcel                         | Sexteto Juventud          | https://open.spotify.com/track/0fnIHYY5u5dztgKdizQ89C |
+| El barrio                         | Markolino Dimond          | https://open.spotify.com/track/1Y8XsEASQvUGyzPhXOfmfn |
