@@ -230,3 +230,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Meneate                           | Alex Leon                   | https://open.spotify.com/track/5VTkHtyUziv0uzQMBDgIcb |
 | El arbol                          | Joe Arroyo                  | https://open.spotify.com/track/7eOSOc9z6gcsGBznsg5mk3 |
 | Diez lagrimas                     | Hermanos Lebron             | not found                                             |
+| Las guajiras                      | Mongo Santamaria            | https://open.spotify.com/track/29qQJ0FjbbqFljI5j1U3HB |
