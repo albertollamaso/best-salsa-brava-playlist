@@ -316,3 +316,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Por que adore                     | Frankie Dante                | https://open.spotify.com/track/3msWQaIF3lSshxzwL4E5s8 |
 | Borracho no vale                  | Daniel Santos                | https://open.spotify.com/track/5oEYOzSXZiRp69RYxhGlC4 |
 | El chivo de la campana            | Cortijo y su Combo           | https://open.spotify.com/track/5T0DSMeg9DWhduSOL1UmMC |
+| Dolores                           | Joe Cotto y Su Orquesta      | https://open.spotify.com/track/03u0MP4sbGN7IS5goNHLzj |
+| Ausencia                          | Hector Lavoe                 | https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP |
