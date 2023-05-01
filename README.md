@@ -313,3 +313,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Mi pachanga                       | His Orchestra                | https://open.spotify.com/track/0L5SDBjE5IjjpmmxqV8TX1 |
 | Mambo en Paris                    | Richie Ray & Bobby Cruz      | https://open.spotify.com/track/5OYdqZgxBtna2CdSbRd0Bg |
 | Amor y control                    | Ruben Blades                 | https://open.spotify.com/track/303cDwi274kSEH0NSR73AX |
+| Por que adore                     | Frankie Dante                | https://open.spotify.com/track/3msWQaIF3lSshxzwL4E5s8 |
