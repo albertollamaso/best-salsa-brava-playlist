@@ -192,3 +192,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Mi sueño                          | Willie Colon                | https://open.spotify.com/track/7L1SGKE5a8GeCY03uY4XUS |
 | Juanita a mi que                  | Carlos Barbarian y su Combo | not found                                             |
 | Emae Emae                         | Ray Perez                   | https://open.spotify.com/track/2YJokv5cw9IbLm2hrnRat3 |
+| Cuatro pesos                      | Orquesta Broadway           | https://open.spotify.com/track/6ksYGa16cxVbFDz0VRRxA9 |
+| Sin rumbo alguno                  | Conjunto Clasico            | https://open.spotify.com/track/6CKB2fptjgJa6wg3P2yU0L |
