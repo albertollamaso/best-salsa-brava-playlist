@@ -359,3 +359,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Fue varon                         | Ruben Blades                   | https://open.spotify.com/track/4EpgV9FxuRyUqAlfQQWSBz |
 | Salud dinero y amor               | Orquesta Novel                 | https://open.spotify.com/track/4OSdftJXrQkaYpzfh6EFWB |
 | Lupita                            | Perez Prado                    | https://open.spotify.com/track/3rVLMWXpMfjxbkPVwqiDJR |
+| Triste y vacia                    | Hector Lavoe                   | https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc |
+| Apagame el fuego                  | Hermanos Lebron                | not found                                             |
