@@ -231,3 +231,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El arbol                          | Joe Arroyo                  | https://open.spotify.com/track/7eOSOc9z6gcsGBznsg5mk3 |
 | Diez lagrimas                     | Hermanos Lebron             | not found                                             |
 | Las guajiras                      | Mongo Santamaria            | https://open.spotify.com/track/29qQJ0FjbbqFljI5j1U3HB |
+| Fuego y candela                   | Adalberto Santiago          | https://open.spotify.com/track/1VAxIQsYaf5uRGeYWoukdM |
+| Dos gardenias                     | Angel Canales               | https://open.spotify.com/track/4GUzyWtooDC3cx30yeCyzk |
