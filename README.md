@@ -367,3 +367,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Salchicha con huevo               | Jimmy Sabater                  | https://open.spotify.com/track/15ckU9MxUByqY1Knnn7RIZ |
 | Listo medellin                    | Grupo Niche                    | https://open.spotify.com/track/0irGrW0zW3BZdqWe518knd |
 | El licor de tu boquita            | Gran Combo De Puerto Rico      | https://open.spotify.com/track/000P83HDtOHcNVFZy7Q2Yu |
+| Loco                              | Hector Lavoe                   | https://open.spotify.com/track/5sR8QlZ63YSyrbOIUdqHFt |
