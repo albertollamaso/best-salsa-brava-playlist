@@ -256,3 +256,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Guapachando                       | Lucho Macedo                 | https://open.spotify.com/track/50e4r0NhO46D3qIBSeAp7p |
 | Los cocacolos                     | Roberto De La Barrera        | not found                                             |
 | El rey de la puntualidad          | Hector Lavoe                 | https://open.spotify.com/track/3pjv8MMluyxsviQmrCPX1s |
+| Dime por que                      | Ismael Rivera                | https://open.spotify.com/track/2sw9MhaAR1tOLIzmMwyU4Y |
