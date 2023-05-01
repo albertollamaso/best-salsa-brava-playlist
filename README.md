@@ -347,3 +347,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El cantante                       | Hector Lavoe                   | https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO |
 | Maria Teresa y Danilo             | Hansel & Raul                  | https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4 |
 | Caretas                           | Ismael Miranda                 | https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe |
+| Guaguanco para los pollitos       | Hector Rivera                  | https://open.spotify.com/track/0gjGMcgzvywHFm7TMXdMtP |
