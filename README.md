@@ -370,3 +370,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Loco                              | Hector Lavoe                   | https://open.spotify.com/track/5sR8QlZ63YSyrbOIUdqHFt |
 | Mary                              | Joe Arroyo                     | https://open.spotify.com/track/1xhbHwBxJQRFspwTEElXvC |
 | Soledad                           | La 33                          | https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ |
+| Chacaboom                         | Joey Pastrana                  | not found                                             |
+| Mi negrita me espera              | Ismael Rivera                  | https://open.spotify.com/track/0FzpjMWhPZ7YGwQL7Oq2BB |
