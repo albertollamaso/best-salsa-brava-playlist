@@ -205,3 +205,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Madre                             | Ismael Miranda              | https://open.spotify.com/track/6UI2TO1WPfiU3wFG4TELtD |
 | Lluvia con nieve                  | Mon Rivera                  | https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg |
 | Yamulemau                         | Joe Arroyo                  | https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45 |
+| Soy feliz                         | Ismael Rivera               | https://open.spotify.com/track/5x0psqrizkI9QJzKTcrlJs |
+| Compañera mia                     | Gran Combo De Puerto Rico   | https://open.spotify.com/track/6ufaXug2WpXBvS5qirBCkV |
