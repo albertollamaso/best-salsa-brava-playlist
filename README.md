@@ -171,3 +171,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Melao de caña                     | Oscar D' Leon             | https://open.spotify.com/track/1lk8KdJx6OzDmbb0ITX7JI |
 | Claudia                           | Jonah Jones               | https://open.spotify.com/track/4h7K94EsV18xmO411FwCXC |
 | No me hace falta                  | Hermanos Lebron           | not found                                             |
+| Amparo arrebato                   | Richie Ray & Bobby Cruz   | https://open.spotify.com/track/25v6NPLpeB1G8I6coZq5j7 |
+| Cuidate bien                      | Ismael Miranda            | https://open.spotify.com/track/0sQhZrDQHYLEPMfgJnnD9q |
