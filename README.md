@@ -214,3 +214,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La fama                           | Hector Lavoe                | https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4 |
 | El buen pastor                    | Raphy Leavitt               | https://open.spotify.com/track/6yTEwkq3YPjY8puMkCfNLE |
 | El negro                          | Sexteto Juventud            | not found                                             |
+| Yo no soy un angel                | Cheo Feliciano              | https://open.spotify.com/track/4nur5E28uaJE1vgqHJjIQg |
+| Los fariseos                      | Richie Ray & Bobby Cruz     | https://open.spotify.com/track/56FnzYd9Ms90sKVCBZ3g1q |
