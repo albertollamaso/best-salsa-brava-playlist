@@ -180,3 +180,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Y no hago mas na'                 | Gran Combo De Puerto Rico | https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5 |
 | Solo fuiste una mas               | Raphy Leavitt             | https://open.spotify.com/track/38acO21HVqXmhMTpEP8IvM |
 | Ah ah o no                        | Hector Lavoe              | not found                                             |
+| Ay cosita linda                   | Sonora Matancera          | https://open.spotify.com/track/58Xqaqj8QR2CtLOV3dFOFj |
+| Creo en ti                        | Ruben Blades              | https://open.spotify.com/track/1srsRQzMPzpsfeMSkMI11g |
