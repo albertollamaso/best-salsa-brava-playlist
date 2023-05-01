@@ -165,3 +165,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Digo yo                           | Grupo Niche               | https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU |
 | Yo no quiero piedras en mi camino | Ismael Rivera             | https://open.spotify.com/track/1m40HMljgoDBLMaUFvZYDW |
 | Oye como va                       | Joe Cuba                  | https://open.spotify.com/track/7hG9pJUET607EXyrMRtj7i |
+| Un dia bonito                     | Eddie Palmieri            | https://open.spotify.com/track/0qP9VsxgqMYOv0Eb4lUjTC |
