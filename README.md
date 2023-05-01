@@ -155,3 +155,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Decisiones                        | Ruben Blades              | https://open.spotify.com/track/4XTtPhMyEumsU8E1ufUomw |
 | Tirandote flores                  | Bobby Valentin            | https://open.spotify.com/track/63oUKq40CLrehq00NCBT3s |
 | La ruñidera                       | Sexteto La Plata          | not found                                             |
+| Te vas de mi                      | Sonora Ponceña            | https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB |
+| Usted abuso                       | Celia Cruz                | https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo |
