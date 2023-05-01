@@ -254,3 +254,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Somos los reyes del mundo         | Alfredo de la Fe             | https://open.spotify.com/track/2u0DVZn5xoiiHYjZ92B7Ed |
 | La palomita                       | Los Titanes                  | https://open.spotify.com/track/2RuotgYvOG3ceEKhj3SEO6 |
 | Guapachando                       | Lucho Macedo                 | https://open.spotify.com/track/50e4r0NhO46D3qIBSeAp7p |
+| Los cocacolos                     | Roberto De La Barrera        | not found                                             |
