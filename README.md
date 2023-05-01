@@ -199,3 +199,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Cuando aprenda de los maestros    | 3-2 Get Funky               | https://open.spotify.com/track/5TirnjEcIbFxC2yrGIIkph |
 | Vive y vacila                     | Ray Barreto                 | not found                                             |
 | Salsa cuero y bongo               | Fruko y Sus Tesos           | not found                                             |
+| Vamonos pa'l monte                | Eddie Palmieri              | https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId |
