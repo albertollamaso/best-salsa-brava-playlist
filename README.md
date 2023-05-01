@@ -307,3 +307,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | De todas maneras rosas            | Ismael Rivera                | https://open.spotify.com/track/1uXlpTtcVO9aBSzdKIv94S |
 | Maria cristina                    | Ñico Saquito                 | https://open.spotify.com/track/3hqjYthxFa5f21ISWn9xdN |
 | El negrito de la salsa            | Fiebre Latina                | not found                                             |
+| Ponte en ritmo                    | Tabaco                       | https://open.spotify.com/track/3NEvSrSkhffy8qXzyFIRie |
+| Mañana me caso contigo            | Conjunto Universal           | https://open.spotify.com/track/3ITMDUrGCgxhzlyP0b3DlJ |
