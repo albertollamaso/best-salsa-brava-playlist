@@ -200,3 +200,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Vive y vacila                     | Ray Barreto                 | not found                                             |
 | Salsa cuero y bongo               | Fruko y Sus Tesos           | not found                                             |
 | Vamonos pa'l monte                | Eddie Palmieri              | https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId |
+| El carretero                      | Guillermo Portabales        | https://open.spotify.com/track/5UxSH2QqmPlfeoqspQVZEA |
