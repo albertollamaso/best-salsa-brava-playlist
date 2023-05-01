@@ -153,3 +153,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Anuncio clasificado               | Willie Rosario            | https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u |
 | Oye Mima                          | Sonora Matancera          | https://open.spotify.com/track/3FVwM3pxQGyItSdYet211q |
 | Decisiones                        | Ruben Blades              | https://open.spotify.com/track/4XTtPhMyEumsU8E1ufUomw |
+| Tirandote flores                  | Bobby Valentin            | https://open.spotify.com/track/63oUKq40CLrehq00NCBT3s |
+| La ruñidera                       | Sexteto La Plata          | not found                                             |
