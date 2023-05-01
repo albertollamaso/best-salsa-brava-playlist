@@ -348,3 +348,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Maria Teresa y Danilo             | Hansel & Raul                  | https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4 |
 | Caretas                           | Ismael Miranda                 | https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe |
 | Guaguanco para los pollitos       | Hector Rivera                  | https://open.spotify.com/track/0gjGMcgzvywHFm7TMXdMtP |
+| Dueña de mi inspiración           | Ismael Rivera                  | https://open.spotify.com/track/4SpwOa7fIRdUtVj1rbi22m |
