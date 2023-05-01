@@ -259,3 +259,6 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Dime por que                      | Ismael Rivera                | https://open.spotify.com/track/2sw9MhaAR1tOLIzmMwyU4Y |
 | En barranquilla me quedo          | Joe Arroyo                   | https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR |
 | Tiahuanaco                        | Alfredo Linares              | https://open.spotify.com/track/0rytuJ6PtOgVAzbzzkiv29 |
+| Componte cundunga                 | Tito Rodriguez               | https://open.spotify.com/track/4vmIpEUm8iuzA59g7Dx2tH |
+| El juicio de los animales         | Andy Montañez                | https://open.spotify.com/track/1axhndPD7JTZBkx3sPNLmb |
+| Lloraras                          | Oscar D' Leon                | https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy |
