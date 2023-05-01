@@ -271,3 +271,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Pancho cristal                    | Richie Ray & Bobby Cruz      | https://open.spotify.com/track/6VBk6X3804U9z4Ph1G7Z8n |
 | Bomba carambomba                  | Angel Canales                | https://open.spotify.com/track/43XGZvqbwLopw9bBg7OsLx |
 | Nadie baila como yo               | Bobby Matos                  | https://open.spotify.com/track/24MEIr5l4Ry8mMUWiwmlLN |
+| Al pasito cañandonga              | Cali Charanga                | https://open.spotify.com/track/2ogSJN72CTS9nGWAaUynZb |
