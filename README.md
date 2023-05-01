@@ -325,3 +325,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Temperatura                       | Hermanos Lebron              | not found                                             |
 | Bajo con tumbao                   | Eddie Palmieri               | https://open.spotify.com/track/0PkaklBwK3aSMGj6am8C3F |
 | Llego superman                    | Don Filemon y su Banda       | https://open.spotify.com/track/6clxWC8u1XBhq05EhKdAse |
+| Bienvenidos a la fiesta           | Har You Percussion Group     | not found                                             |
