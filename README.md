@@ -299,3 +299,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Julio el gitano                   | Charanga America             | https://open.spotify.com/track/0uwEinvCjFSz6584Hvu8ZY |
 | Mucho amor                        | Hector Lavoe                 | https://open.spotify.com/track/62Tyr8kaAB6JtsVQMakofO |
 | Tres cosas                        | Chu Linares                  | https://open.spotify.com/track/5hY6tFkMjhqIEJk9xv2FO1 |
+| Para que volver                   | Eddie Maldonado              | https://open.spotify.com/track/4IEOtfpwOZBS4zitOTTdLz |
+| La rumba del chinito              | Compay Quinto                | https://open.spotify.com/track/5F88oiBDPockgb32NkUpFf |
