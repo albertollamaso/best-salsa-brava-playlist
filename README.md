@@ -294,3 +294,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El pito                           | Cheo Feliciano               | https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY |
 | Alegria                           | Fania All Stars              | not found                                             |
 | Vuelvo a vivir                    | Mon Rivera                   | not found                                             |
+| La negra no quiere                | Grupo Niche                  | https://open.spotify.com/track/7JL6WGipXc8zKkfWjc4G12 |
+| Gavilan                           | Chivirico Davila             | https://open.spotify.com/track/5Mn9dTNEKKkLhjscm82ctn |
