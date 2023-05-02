@@ -560,3 +560,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | No soy de aqui ni soy de alla               | Gene Hernandez                  | https://open.spotify.com/track/7jJkpdyULb7WDWxuzQ2Is9 |
 | Cucala                                      | Celia Cruz                      | https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI |
 | Anacaona                                    | Cheo Feliciano                  | https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg |
+| Chiviriquiton                               | Richie Ray & Bobby Cruz         | not found                                             |
+| El frutero                                  | Oscar D' Leon                   | https://open.spotify.com/track/3umEN3oOb1BprM7BMbNDG1 |
