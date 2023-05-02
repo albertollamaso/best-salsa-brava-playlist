@@ -489,3 +489,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La rumba te invita                          | Principe y su Sexteto           | https://open.spotify.com/track/4GWJT2fGAw6NWNcQYT3Y24 |
 | Yare                                        | Sonora Ponceña                  | https://open.spotify.com/track/4gdISO3RFEVnxJB5uR5rkF |
 | Bilongo                                     | Ray Barreto                     | not found                                             |
+| El sol de la noche                          | Salsa Celtica                   | https://open.spotify.com/track/0PAf4n8jN2Jo6QXcqirRVq |
+| La salsa de hoy                             | Gran Combo De Puerto Rico       | https://open.spotify.com/track/3KrKb5jRuHXo85wArLUmEo |
