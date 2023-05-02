@@ -556,3 +556,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Al pasito                                   | Grupo Niche                     | https://open.spotify.com/track/6hJdN3rRRsXEc2WcFJkOih |
 | De que tamaño                               | Hector Lavoe                    | https://open.spotify.com/track/2NKQK1RldKnR5P6tiCfWxH |
 | Por que me citas                            | Bobby Valentin                  | not found                                             |
+| Arroz con habichuela                        | Gran Combo De Puerto Rico       | https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS |
