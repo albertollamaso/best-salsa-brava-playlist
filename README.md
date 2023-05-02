@@ -432,3 +432,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Donde Estabas                     | Omara Portuondo                | https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap |
 | La pesadilla                      | Orquesta Ocho y Media          | not found                                             |
 | Despues de todo                   | Los Van Van de Cuba            | not found                                             |
+| Pare cochero                      | Orquesta Aragon                | https://open.spotify.com/track/15GAgrMRAeBwaWHYCcyzX0 |
