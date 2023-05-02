@@ -482,3 +482,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Roberto revolver                            | Oscar Pitin Sanchez             | https://open.spotify.com/track/7doYtiJSJ6aX39v6ODj5kn |
 | El baile del pingüino                       | Conjunto Casino                 | https://open.spotify.com/track/4ADv2iH7k14Ztv2jVCLwdT |
 | Antes la tuve yo                            | Pacheco y Melon                 | https://open.spotify.com/track/75hmMAQFN1c9UzZibmCcZL |
+| Alma jarocha                                | Papaito                         | https://open.spotify.com/track/3q3VXySULYUSexIcyFEWms |
