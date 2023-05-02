@@ -430,3 +430,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Lo atara la arache                | Richie Ray & Bobby Cruz        | https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV |
 | El poncho                         | Los Rumbaney                   | https://open.spotify.com/track/0USKHGxz1aXF8YvZ1KwlcL |
 | Donde Estabas                     | Omara Portuondo                | https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap |
+| La pesadilla                      | Orquesta Ocho y Media          | not found                                             |
