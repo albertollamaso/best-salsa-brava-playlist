@@ -604,3 +604,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Cancion a un individuo                      | Jose Bello                      | https://open.spotify.com/track/0jjPWrN8H2qI6d9XVPukEb |
 | El negrito del Batey                        | Sonora Matancera                | https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH |
 | Campanero                                   | Jose Mangual Jr                 | https://open.spotify.com/track/4ToWIt1Y4hCy57voCJGQmy |
+| Bye bye                                     | La 33                           | https://open.spotify.com/track/4MrjB3Lll1iNT5qjZhEwJC |
