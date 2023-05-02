@@ -565,3 +565,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Lamento de concepcion                       | Roberto Roena                   | https://open.spotify.com/track/4XyT8U0fYPk54lxDgcxDZn |
 | Arrollando                                  | Tabaco                          | https://open.spotify.com/track/1Nroe8KqEu8YgYhCEi75Zo |
 | Ay que bueno                                | Conjunto Clasico                | https://open.spotify.com/track/65xlDvjM63win0ip62OB9U |
+| Domino                                      | Cortijo y su Combo              | not found                                             |
