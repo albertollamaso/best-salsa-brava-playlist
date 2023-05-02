@@ -515,3 +515,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Noche de farra                              | Hector Lavoe                    | https://open.spotify.com/track/2YISq9GxM1gJLkciIfMS49 |
 | La envidia y la hipocresia                  | Tito Gomez                      | https://open.spotify.com/track/49Or1HQcIDPS6zQ7VxoBpf |
 | Mucho corazon                               | Benny More                      | https://open.spotify.com/track/5RV30vIm6HCzmbT3wSwpSr |
+| Las cuatro gomas                            | Los Hijos Del Rey               | not found                                             |
