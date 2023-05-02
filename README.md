@@ -447,3 +447,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Bar y copas                       | Grupo Niche                    | https://open.spotify.com/track/3d4AWizHUUdrP2OXv7RDaQ |
 | Gotas de lluvia                   | Gran Combo De Puerto Rico      | https://open.spotify.com/track/0aqOdseVSgM8Af2AQIA7Bj |
 | Ella mintio                       | Hector Lavoe                   | https://open.spotify.com/track/4cdqHVp6GhPSxcqJGRVsYZ |
+| Pedro simon                       | Orquesta Colon                 | https://open.spotify.com/track/6dOXhq6hvIxC5WubMT1Csm |
