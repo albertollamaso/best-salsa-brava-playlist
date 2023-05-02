@@ -457,3 +457,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Seguire sin soñar                 | Ray Barreto                    | not found                                             |
 | Un amor de la calle               | Hector Lavoe                   | https://open.spotify.com/track/66juz7XEijXRIMtFXYtuSi |
 | Adasa                             | Richie Ray & Bobby Cruz        | not found                                             |
+| Ku ku cha ku cha                  | Charanga 76                    | https://open.spotify.com/track/15NQ04Z3lh89OIrrnPYxo5 |
