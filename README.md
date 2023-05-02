@@ -518,3 +518,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Las cuatro gomas                            | Los Hijos Del Rey               | not found                                             |
 | Son vueltabajero                            | Charanga America                | https://open.spotify.com/track/2hgk08jHBOPnKLnHuxyquK |
 | Con la punta del pie                        | Sonora Gloria                   | not found                                             |
+| El padre Antonio y el monaguillo Andres     | Ruben Blades                    | https://open.spotify.com/track/599bDY8N3kpnHJena6qF8V |
