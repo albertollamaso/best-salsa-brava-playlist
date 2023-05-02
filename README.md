@@ -481,3 +481,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Dame felicidad                              | Perucho torcat                  | https://open.spotify.com/track/37NkwhNzXz1Db6gHAKqh1h |
 | Roberto revolver                            | Oscar Pitin Sanchez             | https://open.spotify.com/track/7doYtiJSJ6aX39v6ODj5kn |
 | El baile del pingüino                       | Conjunto Casino                 | https://open.spotify.com/track/4ADv2iH7k14Ztv2jVCLwdT |
+| Antes la tuve yo                            | Pacheco y Melon                 | https://open.spotify.com/track/75hmMAQFN1c9UzZibmCcZL |
