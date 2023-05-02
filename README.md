@@ -456,3 +456,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El pregon de la montaña           | Belisario Lopez                | https://open.spotify.com/track/0IpvsqK1khdpOiCP6xmug0 |
 | Seguire sin soñar                 | Ray Barreto                    | not found                                             |
 | Un amor de la calle               | Hector Lavoe                   | https://open.spotify.com/track/66juz7XEijXRIMtFXYtuSi |
+| Adasa                             | Richie Ray & Bobby Cruz        | not found                                             |
