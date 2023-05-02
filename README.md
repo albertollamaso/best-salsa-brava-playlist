@@ -539,3 +539,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Calculadora                                 | Oscar D' Leon                   | https://open.spotify.com/track/64O7TgBM7KvIGN1UvptbFX |
 | Va a llover                                 | Tony Pabon                      | https://open.spotify.com/track/5vDZQxjJbcD3ZhNjDlX2Js |
 | El vago                                     | Orquesta Sensacional            | https://open.spotify.com/track/6u9rVdLRSCCpjDLKiMsMSJ |
+| Arroz con coco                              | Wladimir y su Constelacion      | https://open.spotify.com/track/29SZsoEbiBW97fYFn2Mhgn |
+| Descarga caliente                           | Ruben Blades                    | https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ |
