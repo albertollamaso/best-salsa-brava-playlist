@@ -499,3 +499,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Para que aprendas                           | Roberto Torres                  | https://open.spotify.com/track/2Z8jJYBszZTdQ8TPyhjpL1 |
 | Escondete                                   | Orquesta Tentacion              | not found                                             |
 | Goza la vida                                | Conjunto Libre                  | https://open.spotify.com/track/4toFfzuR0mJA1WyhtKZ071 |
+| La negra tomasa (Bilongo)                   | Sexteto La Plata                | not found                                             |
