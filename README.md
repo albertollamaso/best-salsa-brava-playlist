@@ -494,3 +494,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Un caso social                              | Grupo Niche                     | https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ |
 | Cool                                        | Rene Grand y su Combo           | https://open.spotify.com/track/0HVhWrUIOtdTDzeeSSr78J |
 | Pa'l 23                                     | Ray Perez                       | not found                                             |
+| Espiritualmente                             | Sexteto Juventud                | https://open.spotify.com/track/1Z1NHNzfdqNzU1bzjtJXtR |
+| La murga                                    | Hector Lavoe                    | https://open.spotify.com/track/0rcL0bGZpeN9stj0dHE3f0 |
