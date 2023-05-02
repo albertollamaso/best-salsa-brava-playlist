@@ -500,3 +500,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Escondete                                   | Orquesta Tentacion              | not found                                             |
 | Goza la vida                                | Conjunto Libre                  | https://open.spotify.com/track/4toFfzuR0mJA1WyhtKZ071 |
 | La negra tomasa (Bilongo)                   | Sexteto La Plata                | not found                                             |
+| Carimbo                                     | Ismael Rivera                   | https://open.spotify.com/track/4N2H2KIyz3x09JGQpxVTXo |
