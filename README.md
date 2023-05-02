@@ -533,3 +533,6 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Yo quisiera saber                           | Oscar D' Leon                   | https://open.spotify.com/track/4tSmsPQqIo3QKg1DElcGaX |
 | Antes que tu                                | Gran Combo De Puerto Rico       | https://open.spotify.com/track/7Cp3tw1mMX5OHp9iYlILyi |
 | Descarga '73                                | Tipica 73                       | https://open.spotify.com/track/4uH5bLakZ5ISpOpC5qnN6x |
+| Culebra                                     | Grupo Niche                     | https://open.spotify.com/track/3LqGUozQ64ScbEyMj8vCk5 |
+| Comejen                                     | Richie Ray & Bobby Cruz         | https://open.spotify.com/track/7bM4rlANEIvF65bgxX84Dv |
+| Niña y señora                               | Tito Puente                     | https://open.spotify.com/track/23zjUBPqGKyS2dFXspB26d |
