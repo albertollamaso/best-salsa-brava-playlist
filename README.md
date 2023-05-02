@@ -588,3 +588,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Zumbale                                     | Henry Fiol                      | https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E |
 | Con eso                                     | Gran Combo De Puerto Rico       | https://open.spotify.com/track/2SiNjRRe5jbdOXoy4VGpzZ |
 | Fe                                          | Hermanos Lebron                 | not found                                             |
+| Por que te niegas                           | Roberto Roena                   | https://open.spotify.com/track/4g6hLbImbBfPgXFnFKPnUW |
