@@ -478,3 +478,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Ella se fue                                 | Orquesta Bronko                 | https://open.spotify.com/track/32SQTtYXAOmFYMgn6rH0ta |
 | Quien ha visto por ahi mi sombrero de yarey | Orquesta Original de Manzanillo | https://open.spotify.com/track/6zdDBIokIVtb3Jw1XHyJGx |
 | Catalina la o                               | Pete El Conde Rodriguez         | https://open.spotify.com/track/3uOODK5GtGFNda7J8ty4VJ |
+| Dame felicidad                              | Perucho torcat                  | https://open.spotify.com/track/37NkwhNzXz1Db6gHAKqh1h |
