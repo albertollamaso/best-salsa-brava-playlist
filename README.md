@@ -566,3 +566,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Arrollando                                  | Tabaco                          | https://open.spotify.com/track/1Nroe8KqEu8YgYhCEi75Zo |
 | Ay que bueno                                | Conjunto Clasico                | https://open.spotify.com/track/65xlDvjM63win0ip62OB9U |
 | Domino                                      | Cortijo y su Combo              | not found                                             |
+| Regresa ya                                  | Gran Combo De Puerto Rico       | https://open.spotify.com/track/3NRWvy7VsCJuI4xx51LpVG |
