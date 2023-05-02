@@ -425,3 +425,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | M'Gambo Mambo                     | Martin Denny                   | not found                                             |
 | Adios compay gato                 | Trio La Rosa                   | https://open.spotify.com/track/3g4PlIwbTrO0gSqmMQIiPX |
 | Silbando                          | Los Ribereños                  | https://open.spotify.com/track/5fel4W1fI1okSmp7GwRG0l |
+| A las seis                        | Joe Cuba                       | https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex |
+| Temo decirselo todo               | Oscar D' Leon                  | https://open.spotify.com/track/1MDH0TLD2Ln3XYmtbgqOA9 |
