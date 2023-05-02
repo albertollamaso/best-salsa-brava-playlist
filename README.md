@@ -438,3 +438,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Moliendo cafe                     | Joe Quijano                    | https://open.spotify.com/track/5fmo86q771SknNYDnvxkLw |
 | Todos vuelven                     | Ruben Blades                   | https://open.spotify.com/track/36vvQO6HqrcrmDuNoMBC0A |
 | Cancion                           | Sonora Ponceña                 | https://open.spotify.com/track/28F535MpSIBFy2DtsYbH7L |
+| Caramelo                          | Celia Cruz                     | https://open.spotify.com/track/04dOgZLYYPey9T9yjYnmUB |
+| Negra quiereme                    | Mario Ortiz                    | https://open.spotify.com/track/6lfK5sLZMV2AOy8qMkht9S |
