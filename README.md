@@ -393,3 +393,8 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Amo mi soledad                    | La Rebelion                    | not found                                             |
 | Cuero na'ma                       | Jose Mangual Jr                | https://open.spotify.com/track/4Y8z5a0QNmBCbIEGB4WTvI |
 | Ave maria lola                    | Sonora Matancera               | https://open.spotify.com/track/6fn4OSNG7SPNqiPJG8R5oq |
+| Perder para amar                  | Grupo Niche                    | https://open.spotify.com/track/0PdohAxtL1wZBBYYiiMC4I |
+| Cha cha en Balboa                 | Rudy Macias                    | not found                                             |
+| Esos ojitos negros                | Gran Combo De Puerto Rico      | https://open.spotify.com/track/0rjZnZyqRc95UlV4lQNhxn |
+| Almendra                          | Julian y su Combo              | https://open.spotify.com/track/4xBjQCOwgECjkrH1CykOiY |
+| El pio pio                        | Sonora Ponceña                 | https://open.spotify.com/track/7Ee7jBAQ6iYSDr2pAkwxfw |
