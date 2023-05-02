@@ -498,3 +498,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La murga                                    | Hector Lavoe                    | https://open.spotify.com/track/0rcL0bGZpeN9stj0dHE3f0 |
 | Para que aprendas                           | Roberto Torres                  | https://open.spotify.com/track/2Z8jJYBszZTdQ8TPyhjpL1 |
 | Escondete                                   | Orquesta Tentacion              | not found                                             |
+| Goza la vida                                | Conjunto Libre                  | https://open.spotify.com/track/4toFfzuR0mJA1WyhtKZ071 |
