@@ -486,3 +486,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Por la maceta                               | Rey Roig                        | https://open.spotify.com/track/2HZQ2Q1RxqzyhIanyD4Giy |
 | Tin marin                                   | Richie Ray & Bobby Cruz         | https://open.spotify.com/track/3LseKV7pKTVk9EygNBJKIv |
 | Armonioso son                               | Roberto Anglero                 | https://open.spotify.com/track/3hcTcqVrkwq1yU1qceq05t |
+| La rumba te invita                          | Principe y su Sexteto           | https://open.spotify.com/track/4GWJT2fGAw6NWNcQYT3Y24 |
+| Yare                                        | Sonora Ponceña                  | https://open.spotify.com/track/4gdISO3RFEVnxJB5uR5rkF |
