@@ -613,3 +613,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El gran varon                               | Willie Colon                    | https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w |
 | Regreso                                     | Roberto Roena                   | not found                                             |
 | Pica mosquito                               | Noro Morales                    | https://open.spotify.com/track/7pRSRkmYuhRqDD0MxuboHD |
+| Como da vueltas la vida                     | La Terrifica                    | https://open.spotify.com/track/7cxMihVlwrepmb2xmnjwc4 |
+| Cantar                                      | Tito Allen                      | https://open.spotify.com/track/0pZxLqPo8pyy8SlTrAjHtq |
