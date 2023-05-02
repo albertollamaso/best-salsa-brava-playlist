@@ -600,3 +600,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Rumbon melon                                | Joey Pastrana                   | https://open.spotify.com/track/1arDLk09pLLJHf5e6V37wU |
 | Merecumbe                                   | Johnny Colon                    | https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97 |
 | Agua de clavelito                           | Johnny Pacheco                  | https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl |
+| Lo pasado no perdona                        | Ruben Blades                    | https://open.spotify.com/track/23BsyEYOTgdwvSbS1ZHsN2 |
