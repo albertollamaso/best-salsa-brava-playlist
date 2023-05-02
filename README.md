@@ -575,3 +575,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Pedro navaja                                | Ruben Blades                    | https://open.spotify.com/track/5lQigojYtsDaFcuK7c2Qid |
 | Humo                                        | Sonora Matancera                | https://open.spotify.com/track/594M4FJmVgCEsiaLbsymJV |
 | Oy Mayi                                     | Sonora Ponceña                  | not found                                             |
+| Oh que sera                                 | Willie Colon                    | https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI |
