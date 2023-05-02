@@ -492,3 +492,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El sol de la noche                          | Salsa Celtica                   | https://open.spotify.com/track/0PAf4n8jN2Jo6QXcqirRVq |
 | La salsa de hoy                             | Gran Combo De Puerto Rico       | https://open.spotify.com/track/3KrKb5jRuHXo85wArLUmEo |
 | Un caso social                              | Grupo Niche                     | https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ |
+| Cool                                        | Rene Grand y su Combo           | https://open.spotify.com/track/0HVhWrUIOtdTDzeeSSr78J |
+| Pa'l 23                                     | Ray Perez                       | not found                                             |
