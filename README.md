@@ -470,3 +470,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El tiroteo                        | New Swing Sextet               | https://open.spotify.com/track/2MogCdJND27NK810j9fZtY |
 | El pañuelito                      | Ismael Rivera                  | not found                                             |
 | Ocairi                            | Orlando Pabellon               | not found                                             |
+| Capullito de azucena              | Oscar D' Leon                  | https://open.spotify.com/track/7sfvCPmD3qOyuy8v7mwWnC |
