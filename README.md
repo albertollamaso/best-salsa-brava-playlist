@@ -468,3 +468,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Buenaventura y caney              | Grupo Niche                    | https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm |
 | Periodico de ayer                 | Hector Lavoe                   | https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend |
 | El tiroteo                        | New Swing Sextet               | https://open.spotify.com/track/2MogCdJND27NK810j9fZtY |
+| El pañuelito                      | Ismael Rivera                  | not found                                             |
+| Ocairi                            | Orlando Pabellon               | not found                                             |
