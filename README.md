@@ -480,3 +480,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Catalina la o                               | Pete El Conde Rodriguez         | https://open.spotify.com/track/3uOODK5GtGFNda7J8ty4VJ |
 | Dame felicidad                              | Perucho torcat                  | https://open.spotify.com/track/37NkwhNzXz1Db6gHAKqh1h |
 | Roberto revolver                            | Oscar Pitin Sanchez             | https://open.spotify.com/track/7doYtiJSJ6aX39v6ODj5kn |
+| El baile del pingüino                       | Conjunto Casino                 | https://open.spotify.com/track/4ADv2iH7k14Ztv2jVCLwdT |
