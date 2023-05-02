@@ -568,3 +568,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Domino                                      | Cortijo y su Combo              | not found                                             |
 | Regresa ya                                  | Gran Combo De Puerto Rico       | https://open.spotify.com/track/3NRWvy7VsCJuI4xx51LpVG |
 | Para ochun                                  | Hector Lavoe                    | https://open.spotify.com/track/0p29ftP2K8EdaryUMKfyyj |
+| Juliana                                     | Cuco Valoy                      | https://open.spotify.com/track/0OXiafARh2UWNI8Bf6xXgL |
