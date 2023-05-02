@@ -427,3 +427,6 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Silbando                          | Los Ribereños                  | https://open.spotify.com/track/5fel4W1fI1okSmp7GwRG0l |
 | A las seis                        | Joe Cuba                       | https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex |
 | Temo decirselo todo               | Oscar D' Leon                  | https://open.spotify.com/track/1MDH0TLD2Ln3XYmtbgqOA9 |
+| Lo atara la arache                | Richie Ray & Bobby Cruz        | https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV |
+| El poncho                         | Los Rumbaney                   | https://open.spotify.com/track/0USKHGxz1aXF8YvZ1KwlcL |
+| Donde Estabas                     | Omara Portuondo                | https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap |
