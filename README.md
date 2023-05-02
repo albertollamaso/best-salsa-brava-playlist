@@ -593,3 +593,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Vamos a reir un poco                        | Hector Lavoe                    | https://open.spotify.com/track/41xQQNFqOja4DNQttbsJ0W |
 | Ruperto mena                                | Grupo Niche                     | not found                                             |
 | Por ti no morire                            | Joe Arroyo                      | https://open.spotify.com/track/0WTNbsjmR2HoFMcPINk1XG |
+| Ahora yo me rio                             | Sonora Ponceña                  | https://open.spotify.com/track/0ZhwpIi492QMsTj0siYaB3 |
+| Poco a poco                                 | Oscar D' Leon                   | https://open.spotify.com/track/3xcR9wgU1MgkkDNRF1ii6v |
