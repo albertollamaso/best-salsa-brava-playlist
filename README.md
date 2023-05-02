@@ -434,3 +434,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Despues de todo                   | Los Van Van de Cuba            | not found                                             |
 | Pare cochero                      | Orquesta Aragon                | https://open.spotify.com/track/15GAgrMRAeBwaWHYCcyzX0 |
 | Corazon borracho                  | Loui Lopez                     | not found                                             |
+| Chin chon chow                    | Louie Ramirez                  | https://open.spotify.com/track/19xsNoT77WlLftzAOVl2Q9 |
+| Moliendo cafe                     | Joe Quijano                    | https://open.spotify.com/track/5fmo86q771SknNYDnvxkLw |
