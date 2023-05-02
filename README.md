@@ -460,3 +460,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Ku ku cha ku cha                  | Charanga 76                    | https://open.spotify.com/track/15NQ04Z3lh89OIrrnPYxo5 |
 | Yambeque                          | Sonora Ponceña                 | https://open.spotify.com/track/1FbwbKzs9Qrg9ZXaYlP164 |
 | Sandra mora                       | Nati y su Charanga             | not found                                             |
+| El malo                           | Orquesta Narvaez               | https://open.spotify.com/track/7MExWPn8Ey65ib6Lt6IqTF |
+| Echo chi echo no                  | Nelson Feliciano               | https://open.spotify.com/track/4O3OSK0VuZLHGBxNhyIWTT |
