@@ -451,3 +451,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Good loving                       | Miguel, Oscar y la Fantasia    | not found                                             |
 | Imaginate mis manos               | Moncho Santana                 | https://open.spotify.com/track/76d2kxxarWvfsYS2XGorGN |
 | Ramona                            | Ismael Rivera                  | https://open.spotify.com/track/3w6U05JBA8LQ7Y1U8EiRj3 |
+| Te vas a acordar de mi            | Orquesta La Libertad           | https://open.spotify.com/track/76P4WiEL2QMCdNlJxhJZHL |
+| Mambo batiri                      | Nacho Sanabria                 | not found                                             |
