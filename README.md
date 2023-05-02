@@ -474,3 +474,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Besame mama                       | Poncho Sanchez                 | https://open.spotify.com/track/6gRTiCVBnX2lRp1Arw1u7D |
 | La juma de ayer                   | Compay Segundo                 | https://open.spotify.com/track/4USzJoyZKpNzupuahJMOBD |
 | Fuego y escarcha                  | Raphy Leavitt                  | https://open.spotify.com/track/40R9LsV04wOeyYoDBF2zbW |
+| Take off                          | Randy Carlos                   | https://open.spotify.com/track/0He00Y0bZT9q4h6mv5KzDa |
+| Ella se fue                       | Orquesta Bronko                | https://open.spotify.com/track/32SQTtYXAOmFYMgn6rH0ta |
