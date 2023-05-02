@@ -419,3 +419,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Nuestro sueño                     | Grupo Niche                    | https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH |
 | Asi no                            | Orquesta Sonolux               | not found                                             |
 | Isla del encanto                  | Orquesta Broadway              | https://open.spotify.com/track/13RYvgZFXXhos0jSEAMBfH |
+| Abran paso                        | Larry Harlow                   | not found                                             |
+| Las caras lindas                  | Ismael Rivera                  | https://open.spotify.com/track/1C74E6b4NrjC4a2TblWWIa |
