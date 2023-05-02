@@ -522,3 +522,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El sabado es sensacional                    | Sur Caribe                      | not found                                             |
 | La fiesta de soneros                        | Tommy Olivencia                 | https://open.spotify.com/track/3mCcfsx4x2KTkz8QyDaX2V |
 | A el                                        | Oscar D' Leon                   | https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR |
+| Lagrimas negras                             | The Brooklin Sounds             | not found                                             |
