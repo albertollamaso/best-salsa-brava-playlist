@@ -554,3 +554,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Una emisora en el cielo                     | Andy Montañez                   | https://open.spotify.com/track/7yS4MJZBiXDstXzkxtGgSg |
 | Sol de mi vida                              | Angel Canales                   | https://open.spotify.com/track/1XScpA1QZgKrKmn3jUPpiA |
 | Al pasito                                   | Grupo Niche                     | https://open.spotify.com/track/6hJdN3rRRsXEc2WcFJkOih |
+| De que tamaño                               | Hector Lavoe                    | https://open.spotify.com/track/2NKQK1RldKnR5P6tiCfWxH |
