@@ -448,3 +448,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Gotas de lluvia                   | Gran Combo De Puerto Rico      | https://open.spotify.com/track/0aqOdseVSgM8Af2AQIA7Bj |
 | Ella mintio                       | Hector Lavoe                   | https://open.spotify.com/track/4cdqHVp6GhPSxcqJGRVsYZ |
 | Pedro simon                       | Orquesta Colon                 | https://open.spotify.com/track/6dOXhq6hvIxC5WubMT1Csm |
+| Good loving                       | Miguel, Oscar y la Fantasia    | not found                                             |
