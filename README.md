@@ -536,3 +536,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Culebra                                     | Grupo Niche                     | https://open.spotify.com/track/3LqGUozQ64ScbEyMj8vCk5 |
 | Comejen                                     | Richie Ray & Bobby Cruz         | https://open.spotify.com/track/7bM4rlANEIvF65bgxX84Dv |
 | Niña y señora                               | Tito Puente                     | https://open.spotify.com/track/23zjUBPqGKyS2dFXspB26d |
+| Calculadora                                 | Oscar D' Leon                   | https://open.spotify.com/track/64O7TgBM7KvIGN1UvptbFX |
