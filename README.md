@@ -546,3 +546,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | No queda nada                               | Luis Pabon                      | not found                                             |
 | Oye mi piano                                | Damiron                         | https://open.spotify.com/track/0AonUCw5hRLx7zMQq8IyxV |
 | A la reina                                  | Gran Combo De Puerto Rico       | https://open.spotify.com/track/4Td0q0Qp2iBlc0fntjzcrX |
+| Lagrimas negras                             | Los Kimbos                      | not found                                             |
