@@ -598,3 +598,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Resignacion                                 | Gran Combo De Puerto Rico       | https://open.spotify.com/track/57iPG7GCr19pTGsbiS5Wb6 |
 | Siento                                      | Hector Lavoe                    | not found                                             |
 | Rumbon melon                                | Joey Pastrana                   | https://open.spotify.com/track/1arDLk09pLLJHf5e6V37wU |
+| Merecumbe                                   | Johnny Colon                    | https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97 |
