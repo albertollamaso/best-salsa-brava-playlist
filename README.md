@@ -623,3 +623,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La zafra                                    | Richie Ray & Bobby Cruz         | https://open.spotify.com/track/0aKGMTqxlLIafaVBs0NRuL |
 | El titere                                   | Louie Ramirez                   | https://open.spotify.com/track/4alqdS1z8EFifDZflqmUjb |
 | Llorando me dormi                           | Ismael Rivera                   | https://open.spotify.com/track/1sZ5TjZMkjlmdsV5ouQpcV |
+| Equivocada                                  | Pedro Conga                     | https://open.spotify.com/track/1GsawwSxCoWdFLFPnmiDdq |
