@@ -574,3 +574,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Muñeca                                      | Eddie Palmieri                  | https://open.spotify.com/track/2kSWdfrY0yq0CV9U6DqyyW |
 | Pedro navaja                                | Ruben Blades                    | https://open.spotify.com/track/5lQigojYtsDaFcuK7c2Qid |
 | Humo                                        | Sonora Matancera                | https://open.spotify.com/track/594M4FJmVgCEsiaLbsymJV |
+| Oy Mayi                                     | Sonora Ponceña                  | not found                                             |
