@@ -624,3 +624,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El titere                                   | Louie Ramirez                   | https://open.spotify.com/track/4alqdS1z8EFifDZflqmUjb |
 | Llorando me dormi                           | Ismael Rivera                   | https://open.spotify.com/track/1sZ5TjZMkjlmdsV5ouQpcV |
 | Equivocada                                  | Pedro Conga                     | https://open.spotify.com/track/1GsawwSxCoWdFLFPnmiDdq |
+| Fuego a la jicotea                          | Marvin Santiago                 | https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7 |
+| Sigo pensando en ti                         | Sonora Ponceña                  | https://open.spotify.com/track/2KZaEkfbhWxPUzrssxvCTA |
