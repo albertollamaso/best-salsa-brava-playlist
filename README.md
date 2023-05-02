@@ -615,3 +615,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Pica mosquito                               | Noro Morales                    | https://open.spotify.com/track/7pRSRkmYuhRqDD0MxuboHD |
 | Como da vueltas la vida                     | La Terrifica                    | https://open.spotify.com/track/7cxMihVlwrepmb2xmnjwc4 |
 | Cantar                                      | Tito Allen                      | https://open.spotify.com/track/0pZxLqPo8pyy8SlTrAjHtq |
+| Se necesita rumbero                         | Oscar D' Leon                   | https://open.spotify.com/track/0FiS1haG9CQRtC8NMavoxb |
