@@ -483,3 +483,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El baile del pingüino                       | Conjunto Casino                 | https://open.spotify.com/track/4ADv2iH7k14Ztv2jVCLwdT |
 | Antes la tuve yo                            | Pacheco y Melon                 | https://open.spotify.com/track/75hmMAQFN1c9UzZibmCcZL |
 | Alma jarocha                                | Papaito                         | https://open.spotify.com/track/3q3VXySULYUSexIcyFEWms |
+| Por la maceta                               | Rey Roig                        | https://open.spotify.com/track/2HZQ2Q1RxqzyhIanyD4Giy |
+| Tin marin                                   | Richie Ray & Bobby Cruz         | https://open.spotify.com/track/3LseKV7pKTVk9EygNBJKIv |
