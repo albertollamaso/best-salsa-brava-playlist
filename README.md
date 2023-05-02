@@ -516,3 +516,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La envidia y la hipocresia                  | Tito Gomez                      | https://open.spotify.com/track/49Or1HQcIDPS6zQ7VxoBpf |
 | Mucho corazon                               | Benny More                      | https://open.spotify.com/track/5RV30vIm6HCzmbT3wSwpSr |
 | Las cuatro gomas                            | Los Hijos Del Rey               | not found                                             |
+| Son vueltabajero                            | Charanga America                | https://open.spotify.com/track/2hgk08jHBOPnKLnHuxyquK |
