@@ -485,3 +485,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Alma jarocha                                | Papaito                         | https://open.spotify.com/track/3q3VXySULYUSexIcyFEWms |
 | Por la maceta                               | Rey Roig                        | https://open.spotify.com/track/2HZQ2Q1RxqzyhIanyD4Giy |
 | Tin marin                                   | Richie Ray & Bobby Cruz         | https://open.spotify.com/track/3LseKV7pKTVk9EygNBJKIv |
+| Armonioso son                               | Roberto Anglero                 | https://open.spotify.com/track/3hcTcqVrkwq1yU1qceq05t |
