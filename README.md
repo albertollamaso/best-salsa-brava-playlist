@@ -607,3 +607,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Bye bye                                     | La 33                           | https://open.spotify.com/track/4MrjB3Lll1iNT5qjZhEwJC |
 | La culebra                                  | La Conspiracion                 | https://open.spotify.com/track/6MXKFxiLxchX1sG3HdHu7T |
 | El artista famoso                           | La Inmensidad                   | not found                                             |
+| Fiebre boogaloo                             | La Misma Gente                  | not found                                             |
