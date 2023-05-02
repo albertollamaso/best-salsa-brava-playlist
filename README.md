@@ -557,3 +557,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | De que tamaño                               | Hector Lavoe                    | https://open.spotify.com/track/2NKQK1RldKnR5P6tiCfWxH |
 | Por que me citas                            | Bobby Valentin                  | not found                                             |
 | Arroz con habichuela                        | Gran Combo De Puerto Rico       | https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS |
+| No soy de aqui ni soy de alla               | Gene Hernandez                  | https://open.spotify.com/track/7jJkpdyULb7WDWxuzQ2Is9 |
