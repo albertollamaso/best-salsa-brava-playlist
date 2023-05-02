@@ -548,3 +548,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | A la reina                                  | Gran Combo De Puerto Rico       | https://open.spotify.com/track/4Td0q0Qp2iBlc0fntjzcrX |
 | Lagrimas negras                             | Los Kimbos                      | not found                                             |
 | El cumbanchero                              | Ismael Rivera                   | https://open.spotify.com/track/1VMTzYeudf98nwRtUYvrIL |
+| Imposible ha de ser                         | Adalberto Santiago              | https://open.spotify.com/track/0iWzxBVBp5mdpF6EwhvsNX |
