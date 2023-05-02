@@ -417,3 +417,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Sabor a mantecado                 | Manteca                        | https://open.spotify.com/track/1opKNCPTQCK7SpMsD5QdVn |
 | A bailar el son                   | La India de Oriente            | https://open.spotify.com/track/6Ucxjawe3kSM8iY3b06CPf |
 | Nuestro sueño                     | Grupo Niche                    | https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH |
+| Asi no                            | Orquesta Sonolux               | not found                                             |
+| Isla del encanto                  | Orquesta Broadway              | https://open.spotify.com/track/13RYvgZFXXhos0jSEAMBfH |
