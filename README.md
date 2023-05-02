@@ -559,3 +559,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Arroz con habichuela                        | Gran Combo De Puerto Rico       | https://open.spotify.com/track/6p8Dt5ofRsmwhBSYhDwMRS |
 | No soy de aqui ni soy de alla               | Gene Hernandez                  | https://open.spotify.com/track/7jJkpdyULb7WDWxuzQ2Is9 |
 | Cucala                                      | Celia Cruz                      | https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI |
+| Anacaona                                    | Cheo Feliciano                  | https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg |
