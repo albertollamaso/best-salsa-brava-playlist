@@ -562,3 +562,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Anacaona                                    | Cheo Feliciano                  | https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg |
 | Chiviriquiton                               | Richie Ray & Bobby Cruz         | not found                                             |
 | El frutero                                  | Oscar D' Leon                   | https://open.spotify.com/track/3umEN3oOb1BprM7BMbNDG1 |
+| Lamento de concepcion                       | Roberto Roena                   | https://open.spotify.com/track/4XyT8U0fYPk54lxDgcxDZn |
+| Arrollando                                  | Tabaco                          | https://open.spotify.com/track/1Nroe8KqEu8YgYhCEi75Zo |
