@@ -576,3 +576,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Humo                                        | Sonora Matancera                | https://open.spotify.com/track/594M4FJmVgCEsiaLbsymJV |
 | Oy Mayi                                     | Sonora Ponceña                  | not found                                             |
 | Oh que sera                                 | Willie Colon                    | https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI |
+| Como podre disimular                        | Grupo Niche                     | https://open.spotify.com/track/42PDNfuSrrF5nkDrvCPIeN |
+| Acangana                                    | Gran Combo De Puerto Rico       | https://open.spotify.com/track/2AQXDcQkk2coiYNaJcoKaV |
