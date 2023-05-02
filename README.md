@@ -505,3 +505,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Traigo de todo                              | Richie Ray & Bobby Cruz         | https://open.spotify.com/track/0n9eBVW5ebTXN4HUl8niOM |
 | Torero                                      | Alberto Socarras                | not found                                             |
 | Tal vez vuelvas a llamarme                  | Son 14                          | https://open.spotify.com/track/6tEovPZnOeNMvELOhmWAxn |
+| Los zapatos de manacho                      | Gran Combo De Puerto Rico       | https://open.spotify.com/track/5ZlPKFIIJdk7KmMRK4p54d |
