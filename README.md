@@ -502,3 +502,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La negra tomasa (Bilongo)                   | Sexteto La Plata                | not found                                             |
 | Carimbo                                     | Ismael Rivera                   | https://open.spotify.com/track/4N2H2KIyz3x09JGQpxVTXo |
 | Yo quisiera                                 | Oscar D' Leon                   | https://open.spotify.com/track/4HD9PodcnOBUm5eGr3iHCI |
+| Traigo de todo                              | Richie Ray & Bobby Cruz         | https://open.spotify.com/track/0n9eBVW5ebTXN4HUl8niOM |
+| Torero                                      | Alberto Socarras                | not found                                             |
