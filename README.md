@@ -609,3 +609,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El artista famoso                           | La Inmensidad                   | not found                                             |
 | Fiebre boogaloo                             | La Misma Gente                  | not found                                             |
 | Descarga No. 1                              | Richie Ray & Bobby Cruz         | not found                                             |
+| Mi grupo                                    | Sexteto Fantasia                | not found                                             |
