@@ -617,3 +617,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Cantar                                      | Tito Allen                      | https://open.spotify.com/track/0pZxLqPo8pyy8SlTrAjHtq |
 | Se necesita rumbero                         | Oscar D' Leon                   | https://open.spotify.com/track/0FiS1haG9CQRtC8NMavoxb |
 | El paso de encarnacion                      | Larry Harlow                    | not found                                             |
+| Watusi                                      | Dj Oscar Ivan                   | https://open.spotify.com/track/2h3jJgKaGZtYJWBm4UmG37 |
