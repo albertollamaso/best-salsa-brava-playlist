@@ -519,3 +519,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Son vueltabajero                            | Charanga America                | https://open.spotify.com/track/2hgk08jHBOPnKLnHuxyquK |
 | Con la punta del pie                        | Sonora Gloria                   | not found                                             |
 | El padre Antonio y el monaguillo Andres     | Ruben Blades                    | https://open.spotify.com/track/599bDY8N3kpnHJena6qF8V |
+| El sabado es sensacional                    | Sur Caribe                      | not found                                             |
+| La fiesta de soneros                        | Tommy Olivencia                 | https://open.spotify.com/track/3mCcfsx4x2KTkz8QyDaX2V |
