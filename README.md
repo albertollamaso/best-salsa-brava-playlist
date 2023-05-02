@@ -627,3 +627,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Fuego a la jicotea                          | Marvin Santiago                 | https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7 |
 | Sigo pensando en ti                         | Sonora Ponceña                  | https://open.spotify.com/track/2KZaEkfbhWxPUzrssxvCTA |
 | Amor comprado                               | Gran Combo De Puerto Rico       | https://open.spotify.com/track/3N47E78fHpmHF4cc0O0Kia |
+| Consuelate como yo                          | Nacho Sanabria                  | https://open.spotify.com/track/65VxUlfsfLTKGfQluNCx4N |
+| Vendedora de amor                           | Moncho Santana                  | https://open.spotify.com/track/3uzuhX2qGvWN1XbqXWsx1v |
