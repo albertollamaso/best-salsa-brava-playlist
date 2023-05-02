@@ -612,3 +612,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Mi grupo                                    | Sexteto Fantasia                | not found                                             |
 | El gran varon                               | Willie Colon                    | https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w |
 | Regreso                                     | Roberto Roena                   | not found                                             |
+| Pica mosquito                               | Noro Morales                    | https://open.spotify.com/track/7pRSRkmYuhRqDD0MxuboHD |
