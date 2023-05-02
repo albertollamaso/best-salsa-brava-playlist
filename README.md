@@ -620,3 +620,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Watusi                                      | Dj Oscar Ivan                   | https://open.spotify.com/track/2h3jJgKaGZtYJWBm4UmG37 |
 | Hola                                        | Ismael Rivera                   | https://open.spotify.com/track/3HrMaomqiD8JbWNGYBhZGP |
 | Aqui el que baila gana                      | Los Van Van de Cuba             | https://open.spotify.com/track/7DhVAHLCne13I0Ypf8eeuS |
+| La zafra                                    | Richie Ray & Bobby Cruz         | https://open.spotify.com/track/0aKGMTqxlLIafaVBs0NRuL |
