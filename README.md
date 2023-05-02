@@ -531,3 +531,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Brilla el sol                               | Grupo Niche                     | not found                                             |
 | A Maina                                     | Willie Rosario                  | https://open.spotify.com/track/3UcD91YUQVenifPgFNtmPA |
 | Yo quisiera saber                           | Oscar D' Leon                   | https://open.spotify.com/track/4tSmsPQqIo3QKg1DElcGaX |
+| Antes que tu                                | Gran Combo De Puerto Rico       | https://open.spotify.com/track/7Cp3tw1mMX5OHp9iYlILyi |
+| Descarga '73                                | Tipica 73                       | https://open.spotify.com/track/4uH5bLakZ5ISpOpC5qnN6x |
