@@ -579,3 +579,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Como podre disimular                        | Grupo Niche                     | https://open.spotify.com/track/42PDNfuSrrF5nkDrvCPIeN |
 | Acangana                                    | Gran Combo De Puerto Rico       | https://open.spotify.com/track/2AQXDcQkk2coiYNaJcoKaV |
 | Salsa brava                                 | Fruko y Sus Tesos               | https://open.spotify.com/track/7tD5ExlhIeulizQpkVpXXj |
+| Golpes de pecho                             | Ray Perez                       | not found                                             |
+| Che che cole                                | Hector Lavoe                    | not found                                             |
