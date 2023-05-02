@@ -592,3 +592,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Asi se compone un son                       | Ismael Miranda                  | https://open.spotify.com/track/3Ir0fRrOFl5cvR8FqwFEk1 |
 | Vamos a reir un poco                        | Hector Lavoe                    | https://open.spotify.com/track/41xQQNFqOja4DNQttbsJ0W |
 | Ruperto mena                                | Grupo Niche                     | not found                                             |
+| Por ti no morire                            | Joe Arroyo                      | https://open.spotify.com/track/0WTNbsjmR2HoFMcPINk1XG |
