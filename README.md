@@ -513,3 +513,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Pacheco y Masucci                           | Pupi y Su Charanga              | not found                                             |
 | Chico vacilon                               | Sonora del Peru                 | https://open.spotify.com/track/2otDUElLbm9G5GrD54J44s |
 | Noche de farra                              | Hector Lavoe                    | https://open.spotify.com/track/2YISq9GxM1gJLkciIfMS49 |
+| La envidia y la hipocresia                  | Tito Gomez                      | https://open.spotify.com/track/49Or1HQcIDPS6zQ7VxoBpf |
+| Mucho corazon                               | Benny More                      | https://open.spotify.com/track/5RV30vIm6HCzmbT3wSwpSr |
