@@ -581,3 +581,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Salsa brava                                 | Fruko y Sus Tesos               | https://open.spotify.com/track/7tD5ExlhIeulizQpkVpXXj |
 | Golpes de pecho                             | Ray Perez                       | not found                                             |
 | Che che cole                                | Hector Lavoe                    | not found                                             |
+| Vas a llorar                                | Guayacan Orquesta               | https://open.spotify.com/track/4DMGlTFuDFUtfCIfgolbxF |
+| El niche                                    | Ismael Rivera                   | https://open.spotify.com/track/5oKmYUiNmPA870D7NLVbZI |
