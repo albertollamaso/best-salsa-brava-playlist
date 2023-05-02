@@ -524,3 +524,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | A el                                        | Oscar D' Leon                   | https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR |
 | Lagrimas negras                             | The Brooklin Sounds             | not found                                             |
 | Estamos en salsa                            | Wayne Gorbea                    | https://open.spotify.com/track/6nONybSopBGecWPK0pcvva |
+| Que no muera la rumba                       | The Latin Brothers              | https://open.spotify.com/track/3MXn4EiquMtlrrjDbmsmpk |
+| Yo soy babalu                               | Richie Ray & Bobby Cruz         | not found                                             |
