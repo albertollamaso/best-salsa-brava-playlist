@@ -472,3 +472,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Ocairi                            | Orlando Pabellon               | not found                                             |
 | Capullito de azucena              | Oscar D' Leon                  | https://open.spotify.com/track/7sfvCPmD3qOyuy8v7mwWnC |
 | Besame mama                       | Poncho Sanchez                 | https://open.spotify.com/track/6gRTiCVBnX2lRp1Arw1u7D |
+| La juma de ayer                   | Compay Segundo                 | https://open.spotify.com/track/4USzJoyZKpNzupuahJMOBD |
+| Fuego y escarcha                  | Raphy Leavitt                  | https://open.spotify.com/track/40R9LsV04wOeyYoDBF2zbW |
