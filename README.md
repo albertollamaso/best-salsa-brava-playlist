@@ -422,3 +422,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Abran paso                        | Larry Harlow                   | not found                                             |
 | Las caras lindas                  | Ismael Rivera                  | https://open.spotify.com/track/1C74E6b4NrjC4a2TblWWIa |
 | Camina como chencha               | Los Naranjos                   | https://open.spotify.com/track/2xlmTTOvHHLRurnfQCzzHS |
+| M'Gambo Mambo                     | Martin Denny                   | not found                                             |
