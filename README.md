@@ -471,3 +471,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El pañuelito                      | Ismael Rivera                  | not found                                             |
 | Ocairi                            | Orlando Pabellon               | not found                                             |
 | Capullito de azucena              | Oscar D' Leon                  | https://open.spotify.com/track/7sfvCPmD3qOyuy8v7mwWnC |
+| Besame mama                       | Poncho Sanchez                 | https://open.spotify.com/track/6gRTiCVBnX2lRp1Arw1u7D |
