@@ -527,3 +527,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Que no muera la rumba                       | The Latin Brothers              | https://open.spotify.com/track/3MXn4EiquMtlrrjDbmsmpk |
 | Yo soy babalu                               | Richie Ray & Bobby Cruz         | not found                                             |
 | Milonga sentimental                         | Gran Combo De Puerto Rico       | https://open.spotify.com/track/3oKMaEwxdcwsGal6qRIbUC |
+| Aguanile                                    | Hector Lavoe                    | https://open.spotify.com/track/0zQNqqWtMhoUtwkheiUZSu |
