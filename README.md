@@ -570,3 +570,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Para ochun                                  | Hector Lavoe                    | https://open.spotify.com/track/0p29ftP2K8EdaryUMKfyyj |
 | Juliana                                     | Cuco Valoy                      | https://open.spotify.com/track/0OXiafARh2UWNI8Bf6xXgL |
 | Oye pavi                                    | Daniel Santos                   | not found                                             |
+| Seis con el mismo sabor                     | Fania All Stars                 | https://open.spotify.com/track/30xcacN9IHhjLvfGlTM4Hr |
+| Muñeca                                      | Eddie Palmieri                  | https://open.spotify.com/track/2kSWdfrY0yq0CV9U6DqyyW |
