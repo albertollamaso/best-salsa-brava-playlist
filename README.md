@@ -631,3 +631,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Vendedora de amor                           | Moncho Santana                  | https://open.spotify.com/track/3uzuhX2qGvWN1XbqXWsx1v |
 | La vecinita del lado                        | Tommy Olivencia                 | https://open.spotify.com/track/214KkSkPL28FuMor9G6I28 |
 | Privilegio                                  | Ruben Blades                    | https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct |
+| Del puente pa' alla                         | Grupo Niche                     | https://open.spotify.com/track/0vWfzFRMmU2mhTw7eipl9R |
