@@ -526,3 +526,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Estamos en salsa                            | Wayne Gorbea                    | https://open.spotify.com/track/6nONybSopBGecWPK0pcvva |
 | Que no muera la rumba                       | The Latin Brothers              | https://open.spotify.com/track/3MXn4EiquMtlrrjDbmsmpk |
 | Yo soy babalu                               | Richie Ray & Bobby Cruz         | not found                                             |
+| Milonga sentimental                         | Gran Combo De Puerto Rico       | https://open.spotify.com/track/3oKMaEwxdcwsGal6qRIbUC |
