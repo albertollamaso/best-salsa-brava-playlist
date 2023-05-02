@@ -465,3 +465,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Hojas blancas                     | Gran Combo De Puerto Rico      | https://open.spotify.com/track/170Rd3BEDGDm950lBYziPz |
 | Blue pachanga                     | Charles Fox                    | https://open.spotify.com/track/2YlBt3e4by2rEqmpiD5ILe |
 | Tema del papelon                  | Nelson y Sus Estrellas         | https://open.spotify.com/track/3Ud4K5aLvvsmnJmT4IckX2 |
+| Buenaventura y caney              | Grupo Niche                    | https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm |
