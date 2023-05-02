@@ -630,3 +630,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Consuelate como yo                          | Nacho Sanabria                  | https://open.spotify.com/track/65VxUlfsfLTKGfQluNCx4N |
 | Vendedora de amor                           | Moncho Santana                  | https://open.spotify.com/track/3uzuhX2qGvWN1XbqXWsx1v |
 | La vecinita del lado                        | Tommy Olivencia                 | https://open.spotify.com/track/214KkSkPL28FuMor9G6I28 |
+| Privilegio                                  | Ruben Blades                    | https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct |
