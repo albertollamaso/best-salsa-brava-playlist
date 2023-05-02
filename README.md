@@ -398,3 +398,7 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Esos ojitos negros                | Gran Combo De Puerto Rico      | https://open.spotify.com/track/0rjZnZyqRc95UlV4lQNhxn |
 | Almendra                          | Julian y su Combo              | https://open.spotify.com/track/4xBjQCOwgECjkrH1CykOiY |
 | El pio pio                        | Sonora Ponceña                 | https://open.spotify.com/track/7Ee7jBAQ6iYSDr2pAkwxfw |
+| Amame                             | Los Maraqueros                 | https://open.spotify.com/track/5B1KO74MzI8fdNgCUU21yW |
+| Pa' bravo yo                      | Justo Betancur                 | not found                                             |
+| Hachero mayor                     | La Terrifica                   | https://open.spotify.com/track/5HeHZATNvv2wVJtktvITnN |
+| Mi gente                          | Hector Lavoe                   | https://open.spotify.com/track/7epwpv5eX5E5rJLOKMBKS4 |
