@@ -446,3 +446,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El hombre increible               | Marvin Santiago                | https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0 |
 | Bar y copas                       | Grupo Niche                    | https://open.spotify.com/track/3d4AWizHUUdrP2OXv7RDaQ |
 | Gotas de lluvia                   | Gran Combo De Puerto Rico      | https://open.spotify.com/track/0aqOdseVSgM8Af2AQIA7Bj |
+| Ella mintio                       | Hector Lavoe                   | https://open.spotify.com/track/4cdqHVp6GhPSxcqJGRVsYZ |
