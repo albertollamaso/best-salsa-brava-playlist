@@ -511,3 +511,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El sol                                      | TNT Band                        | not found                                             |
 | Volare                                      | Son Boricua                     | not found                                             |
 | Pacheco y Masucci                           | Pupi y Su Charanga              | not found                                             |
+| Chico vacilon                               | Sonora del Peru                 | https://open.spotify.com/track/2otDUElLbm9G5GrD54J44s |
