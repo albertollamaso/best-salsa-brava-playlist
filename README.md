@@ -572,3 +572,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Oye pavi                                    | Daniel Santos                   | not found                                             |
 | Seis con el mismo sabor                     | Fania All Stars                 | https://open.spotify.com/track/30xcacN9IHhjLvfGlTM4Hr |
 | Muñeca                                      | Eddie Palmieri                  | https://open.spotify.com/track/2kSWdfrY0yq0CV9U6DqyyW |
+| Pedro navaja                                | Ruben Blades                    | https://open.spotify.com/track/5lQigojYtsDaFcuK7c2Qid |
