@@ -589,3 +589,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Con eso                                     | Gran Combo De Puerto Rico       | https://open.spotify.com/track/2SiNjRRe5jbdOXoy4VGpzZ |
 | Fe                                          | Hermanos Lebron                 | not found                                             |
 | Por que te niegas                           | Roberto Roena                   | https://open.spotify.com/track/4g6hLbImbBfPgXFnFKPnUW |
+| Asi se compone un son                       | Ismael Miranda                  | https://open.spotify.com/track/3Ir0fRrOFl5cvR8FqwFEk1 |
