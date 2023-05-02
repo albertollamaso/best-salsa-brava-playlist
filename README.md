@@ -506,3 +506,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Torero                                      | Alberto Socarras                | not found                                             |
 | Tal vez vuelvas a llamarme                  | Son 14                          | https://open.spotify.com/track/6tEovPZnOeNMvELOhmWAxn |
 | Los zapatos de manacho                      | Gran Combo De Puerto Rico       | https://open.spotify.com/track/5ZlPKFIIJdk7KmMRK4p54d |
+| Solo un cariño                              | Grupo Niche                     | https://open.spotify.com/track/3QstQ0s2AFt5vAY7nDjp37 |
+| Cachondea                                   | Joe Cuba                        | https://open.spotify.com/track/2WLoCdMqQkJJw36f49V6zX |
