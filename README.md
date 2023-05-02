@@ -626,3 +626,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Equivocada                                  | Pedro Conga                     | https://open.spotify.com/track/1GsawwSxCoWdFLFPnmiDdq |
 | Fuego a la jicotea                          | Marvin Santiago                 | https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7 |
 | Sigo pensando en ti                         | Sonora Ponceña                  | https://open.spotify.com/track/2KZaEkfbhWxPUzrssxvCTA |
+| Amor comprado                               | Gran Combo De Puerto Rico       | https://open.spotify.com/track/3N47E78fHpmHF4cc0O0Kia |
