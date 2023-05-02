@@ -601,3 +601,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Merecumbe                                   | Johnny Colon                    | https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97 |
 | Agua de clavelito                           | Johnny Pacheco                  | https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl |
 | Lo pasado no perdona                        | Ruben Blades                    | https://open.spotify.com/track/23BsyEYOTgdwvSbS1ZHsN2 |
+| Cancion a un individuo                      | Jose Bello                      | https://open.spotify.com/track/0jjPWrN8H2qI6d9XVPukEb |
+| El negrito del Batey                        | Sonora Matancera                | https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH |
