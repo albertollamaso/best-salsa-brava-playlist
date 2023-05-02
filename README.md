@@ -591,3 +591,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Por que te niegas                           | Roberto Roena                   | https://open.spotify.com/track/4g6hLbImbBfPgXFnFKPnUW |
 | Asi se compone un son                       | Ismael Miranda                  | https://open.spotify.com/track/3Ir0fRrOFl5cvR8FqwFEk1 |
 | Vamos a reir un poco                        | Hector Lavoe                    | https://open.spotify.com/track/41xQQNFqOja4DNQttbsJ0W |
+| Ruperto mena                                | Grupo Niche                     | not found                                             |
