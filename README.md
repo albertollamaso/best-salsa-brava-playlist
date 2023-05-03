@@ -705,3 +705,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Esa prieta                                  | Johnny Pacheco                  | https://open.spotify.com/track/10VIGvP42R2kP2LzgKHpdK |
 | S.e.r.a.                                    | La Conspiracion                 | https://open.spotify.com/track/2hPYZaskjKYBP9m19kXDyc |
 | La pantera mambo                            | La 33                           | https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP |
+| Asia                                        | Willie Colon                    | https://open.spotify.com/track/55fQM5yPg6bv7mTUAok8FF |
