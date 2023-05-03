@@ -684,3 +684,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Ese dia                                     | Grupo Niche                     | https://open.spotify.com/track/5FmxyYJlL2VA2Bc0lN6xrG |
 | La rumba te espera                          | Bobby Valentin                  | https://open.spotify.com/track/6BuACuJ4RcdjjgxYWhnnDi |
 | El dia de mi suerte                         | Hector Lavoe                    | not found                                             |
+| Quimbara                                    | Celia Cruz                      | https://open.spotify.com/track/1CkuZ3qvhxfMv7y0Nt0sV5 |
