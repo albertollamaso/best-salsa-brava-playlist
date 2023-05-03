@@ -719,3 +719,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Fantasia latina                             | Nelson y Sus Estrellas          | https://open.spotify.com/track/7CLDw2wVzgYPufc2TlfTX9 |
 | Tremendo problema                           | Orquesta Zodiac                 | https://open.spotify.com/track/5mpi8iPIDabaB3cR3svQAL |
 | Micaela                                     | Pete El Conde Rodriguez         | not found                                             |
+| Tin tin deo                                 | Poncho Sanchez                  | https://open.spotify.com/track/2a0YvbHAxIf9Y3Go9MzPju |
