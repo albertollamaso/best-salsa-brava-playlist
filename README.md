@@ -645,3 +645,6 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Agallu                                      | Richie Ray & Bobby Cruz         | not found                                             |
 | Mi bajo y yo                                | Oscar D' Leon                   | https://open.spotify.com/track/2yMEn7B1JQAFLFKhgXBHLu |
 | Azuquita mami                               | Pete El Conde Rodriguez         | not found                                             |
+| Buscando guayaba                            | Ruben Blades                    | https://open.spotify.com/track/4QF6qIuiaQnmVBLos00pJi |
+| Songoro cosongo                             | Hector Lavoe                    | https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV |
+| Un verano en nueva york                     | Gran Combo De Puerto Rico       | https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9 |
