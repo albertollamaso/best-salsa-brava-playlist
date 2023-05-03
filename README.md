@@ -662,3 +662,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Calle luna calle sol                        | Hector Lavoe                    | not found                                             |
 | Hechicera                                   | Oscar D' Leon                   | https://open.spotify.com/track/6blO4yfd1DRQr6kywhCmXr |
 | Aguzate                                     | Richie Ray & Bobby Cruz         | https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA |
+| Hermanas con salsa                          | Sexteto Juventud                | not found                                             |
+| Cui cui                                     | Roberto Roena                   | https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N |
