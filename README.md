@@ -717,3 +717,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Cantar fañoso                               | Nacho Sanabria                  | not found                                             |
 | Veneno para dos                             | Orquesta Bronko                 | https://open.spotify.com/track/1PSve5Z4qJNtlFyPI2Cz6M |
 | Fantasia latina                             | Nelson y Sus Estrellas          | https://open.spotify.com/track/7CLDw2wVzgYPufc2TlfTX9 |
+| Tremendo problema                           | Orquesta Zodiac                 | https://open.spotify.com/track/5mpi8iPIDabaB3cR3svQAL |
