@@ -637,3 +637,6 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Tocame                                      | Orquesta Bronko                 | https://open.spotify.com/track/5z26XTcDMlIHyIj5uvuucW |
 | Panteon de amor                             | Orquesta Zodiac                 | https://open.spotify.com/track/1dXyoFdbmz5q7XGsUPStQx |
 | Mi corazon te llama                         | Roberto y Su Nuevo Montuno      | https://open.spotify.com/track/21YNvYIR00JZ8fsOQEozkT |
+| Incomprendido                               | Ismael Rivera                   | https://open.spotify.com/track/3ImM4OW5DAs91JVoReV6m6 |
+| El todopoderoso                             | Hector Lavoe                    | https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL |
+| Fuego en el cuartel de bomberos             | Papaito                         | not found                                             |
