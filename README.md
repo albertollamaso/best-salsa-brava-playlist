@@ -653,3 +653,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Momposina                                   | Sonora Matancera                | https://open.spotify.com/track/2FKi5eUlBTbOX6aHBkiAlW |
 | Quitate de la via perico                    | Ismael Rivera                   | https://open.spotify.com/track/35zVOlTlIotDkgwOVmD6R5 |
 | No te quedes sin bailar                     | Ray Barreto                     | https://open.spotify.com/track/7l2PvOYO6NOOasHzLPtUqd |
+| Corazon sin corazon                         | Grupo Niche                     | https://open.spotify.com/track/4hylk17Bo5u7qK7FfjNz7v |
+| Asi son                                     | Gran Combo De Puerto Rico       | https://open.spotify.com/track/0XPgxvMQj0m6aqdqR92XL7 |
