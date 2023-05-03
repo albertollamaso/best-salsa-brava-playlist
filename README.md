@@ -712,3 +712,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Sientate ahi                                | Oscar D' Leon                   | https://open.spotify.com/track/1A2Q7hdlmt5GflqBkzhhSb |
 | Guede zaina                                 | Celia Cruz                      | https://open.spotify.com/track/5QNdc5P1umqg8UYjcsfEye |
 | Este amor que se muere                      | Los Van Van de Cuba             | not found                                             |
+| Feo pero sabroso                            | Louie Ramirez                   | https://open.spotify.com/track/14of5iH5kQ59urFBPSI1NS |
