@@ -670,3 +670,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Mishugina mambo                             | Sexteto La Plata                | not found                                             |
 | Veneno                                      | Tito Gomez                      | https://open.spotify.com/track/39Y7pFaJhw83JpsOoZBjOs |
 | Plantacion adentro                          | Ruben Blades                    | https://open.spotify.com/track/2OBZVLhtWun61t4Q94HcVR |
+| Fiesta                                      | Sonora Matancera                | https://open.spotify.com/track/4NOfghof8TrbQQ2nnva0hu |
