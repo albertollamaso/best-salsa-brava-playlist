@@ -673,3 +673,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Fiesta                                      | Sonora Matancera                | https://open.spotify.com/track/4NOfghof8TrbQQ2nnva0hu |
 | Ritmo sabroso                               | Jovenes Del Hierro              | https://open.spotify.com/track/4y7mON38TgU2K3twvCUrJE |
 | Sola vaya                                   | Sonora Ponceña                  | https://open.spotify.com/track/24H55DzJFZy63H1N1OoeWC |
+| Babarabatiri                                | Tito Puente                     | https://open.spotify.com/track/0zrktwkID2FyITcV7k2l0O |
+| El recluso                                  | Sonora del Peru                 | https://open.spotify.com/track/58xMOjO5FVhJbl77bPCgam |
