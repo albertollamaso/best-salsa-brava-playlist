@@ -686,3 +686,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El dia de mi suerte                         | Hector Lavoe                    | not found                                             |
 | Quimbara                                    | Celia Cruz                      | https://open.spotify.com/track/1CkuZ3qvhxfMv7y0Nt0sV5 |
 | Las tumbas                                  | Ismael Rivera                   | https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw |
+| El raton                                    | Cheo Feliciano                  | https://open.spotify.com/track/4nB0lLsweZhCQQYIMnFjSB |
