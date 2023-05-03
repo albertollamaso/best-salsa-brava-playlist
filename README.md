@@ -711,3 +711,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La cartera                                  | Larry Harlow                    | https://open.spotify.com/track/2OUDH9l7YiefDXcqc23tPJ |
 | Sientate ahi                                | Oscar D' Leon                   | https://open.spotify.com/track/1A2Q7hdlmt5GflqBkzhhSb |
 | Guede zaina                                 | Celia Cruz                      | https://open.spotify.com/track/5QNdc5P1umqg8UYjcsfEye |
+| Este amor que se muere                      | Los Van Van de Cuba             | not found                                             |
