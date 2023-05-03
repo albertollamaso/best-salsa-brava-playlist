@@ -667,3 +667,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | De barrio obrero a la 15                    | Willie Rosario                  | https://open.spotify.com/track/5hHeSMAoPVIsLtcY6O3mtf |
 | Te vas a arrepentir                         | Gran Combo De Puerto Rico       | https://open.spotify.com/track/4GRaKp9q15TDGtROuH7aaJ |
 | Juanito alimaña                             | Hector Lavoe                    | https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t |
+| Mishugina mambo                             | Sexteto La Plata                | not found                                             |
