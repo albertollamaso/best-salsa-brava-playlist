@@ -655,3 +655,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | No te quedes sin bailar                     | Ray Barreto                     | https://open.spotify.com/track/7l2PvOYO6NOOasHzLPtUqd |
 | Corazon sin corazon                         | Grupo Niche                     | https://open.spotify.com/track/4hylk17Bo5u7qK7FfjNz7v |
 | Asi son                                     | Gran Combo De Puerto Rico       | https://open.spotify.com/track/0XPgxvMQj0m6aqdqR92XL7 |
+| Lejos de ti                                 | Angel Canales                   | https://open.spotify.com/track/2F13ZZuJ1EQnWhdvBpsvpD |
+| Son malas                                   | Rey Reyes                       | https://open.spotify.com/track/1fm5E3FrDTEj9B4c7gIj2a |
