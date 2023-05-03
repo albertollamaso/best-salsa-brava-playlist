@@ -640,3 +640,8 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Incomprendido                               | Ismael Rivera                   | https://open.spotify.com/track/3ImM4OW5DAs91JVoReV6m6 |
 | El todopoderoso                             | Hector Lavoe                    | https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL |
 | Fuego en el cuartel de bomberos             | Papaito                         | not found                                             |
+| Marejada feliz                              | Roberto Roena                   | https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm |
+| Mambo de cuco                               | Poncho Sanchez                  | https://open.spotify.com/track/0Yciu6e7akzOr4AEB5R2MI |
+| Agallu                                      | Richie Ray & Bobby Cruz         | not found                                             |
+| Mi bajo y yo                                | Oscar D' Leon                   | https://open.spotify.com/track/2yMEn7B1JQAFLFKhgXBHLu |
+| Azuquita mami                               | Pete El Conde Rodriguez         | not found                                             |
