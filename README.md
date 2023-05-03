@@ -679,3 +679,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Periquito pin pin                           | Tommy Olivencia                 | https://open.spotify.com/track/1xlQ4SCNlLGVcGxya4a6de |
 | Sin poderte hablar                          | Willie Colon                    | https://open.spotify.com/track/0cG5FL1bWUhhZTCaiRQVsg |
 | Azuquita pa'l cafe                          | Gran Combo De Puerto Rico       | https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM |
+| Sama thiel                                  | Africando                       | https://open.spotify.com/track/0yfmGNSxfkVcul2XwtKWZg |
+| Lo que dijo justy                           | Wayne Gorbea                    | not found                                             |
