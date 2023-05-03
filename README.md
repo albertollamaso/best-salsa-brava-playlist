@@ -664,3 +664,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Aguzate                                     | Richie Ray & Bobby Cruz         | https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA |
 | Hermanas con salsa                          | Sexteto Juventud                | not found                                             |
 | Cui cui                                     | Roberto Roena                   | https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N |
+| De barrio obrero a la 15                    | Willie Rosario                  | https://open.spotify.com/track/5hHeSMAoPVIsLtcY6O3mtf |
