@@ -721,3 +721,13 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Micaela                                     | Pete El Conde Rodriguez         | not found                                             |
 | Tin tin deo                                 | Poncho Sanchez                  | https://open.spotify.com/track/2a0YvbHAxIf9Y3Go9MzPju |
 | Quitate la mascara                          | Ray Barreto                     | not found                                             |
+|                                             | Guillermo Portabales            | not found                                             |
+|                                             | Grupo Niche                     | not found                                             |
+|                                             | Ricardo Ray                     | not found                                             |
+|                                             | Tito Puente                     | not found                                             |
+|                                             | El Gran Combo de Puerto Rico    | not found                                             |
+|                                             | Tipica 73                       | not found                                             |
+|                                             | Joe Quijano                     | not found                                             |
+|                                             | Orquesta Salsa Dura             | not found                                             |
+|                                             | Willie Rosario                  | not found                                             |
+|                                             | Oscar D'León                    | not found                                             |
