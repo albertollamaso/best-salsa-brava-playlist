@@ -696,3 +696,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El son del tren                             | Fruko y Sus Tesos               | https://open.spotify.com/track/0dQ1RfjMWJ0FQBEt2PvurP |
 | Quasedito                                   | Fania All Stars                 | https://open.spotify.com/track/4iOepouF0WfpF3B6kadsBv |
 | Convergencia                                | Pete El Conde Rodriguez         | https://open.spotify.com/track/25oVzL5MOklJHU4jTpkEbG |
+| Muchachita                                  | Guayacan Orquesta               | https://open.spotify.com/track/5hPWEKYvEMSDydg1jiSjzU |
