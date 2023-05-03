@@ -702,3 +702,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Borinquen tiene montuno                     | Ismael Miranda                  | https://open.spotify.com/track/0qu5v3Uc1HckTviHoqJoRk |
 | Vengan a gozar                              | Joey Pastrana                   | not found                                             |
 | Bam bam                                     | Joe Arroyo                      | not found                                             |
+| Esa prieta                                  | Johnny Pacheco                  | https://open.spotify.com/track/10VIGvP42R2kP2LzgKHpdK |
