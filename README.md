@@ -635,3 +635,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Alardes                                     | Nelson y Sus Estrellas          | https://open.spotify.com/track/5GbSVjytJE2zL52r9GWE75 |
 | Regreso                                     | Orlando Pabellon                | https://open.spotify.com/track/2WRbadMiGrsujPeORi6Jdd |
 | Tocame                                      | Orquesta Bronko                 | https://open.spotify.com/track/5z26XTcDMlIHyIj5uvuucW |
+| Panteon de amor                             | Orquesta Zodiac                 | https://open.spotify.com/track/1dXyoFdbmz5q7XGsUPStQx |
+| Mi corazon te llama                         | Roberto y Su Nuevo Montuno      | https://open.spotify.com/track/21YNvYIR00JZ8fsOQEozkT |
