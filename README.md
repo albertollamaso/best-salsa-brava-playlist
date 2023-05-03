@@ -689,3 +689,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El raton                                    | Cheo Feliciano                  | https://open.spotify.com/track/4nB0lLsweZhCQQYIMnFjSB |
 | El negro bembon                             | Cortijo y su Combo              | https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9 |
 | Felicitaciones                              | Conjunto Clasico                | https://open.spotify.com/track/6EWnA1X6UFw6xvi5xQzHj5 |
+| Nacio varon                                 | Cuco Valoy                      | https://open.spotify.com/track/0ZWVPRHaUEk3elLRVEuCqE |
