@@ -661,3 +661,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | El nazareno                                 | Ismael Rivera                   | https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v |
 | Calle luna calle sol                        | Hector Lavoe                    | not found                                             |
 | Hechicera                                   | Oscar D' Leon                   | https://open.spotify.com/track/6blO4yfd1DRQr6kywhCmXr |
+| Aguzate                                     | Richie Ray & Bobby Cruz         | https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA |
