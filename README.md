@@ -708,3 +708,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Asia                                        | Willie Colon                    | https://open.spotify.com/track/55fQM5yPg6bv7mTUAok8FF |
 | Titico                                      | La Misma Gente                  | https://open.spotify.com/track/4iSogTxBYaInGw3YTg4c1T |
 | Ya no regreso contigo                       | La Inmensidad                   | not found                                             |
+| La cartera                                  | Larry Harlow                    | https://open.spotify.com/track/2OUDH9l7YiefDXcqc23tPJ |
