@@ -699,3 +699,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Muchachita                                  | Guayacan Orquesta               | https://open.spotify.com/track/5hPWEKYvEMSDydg1jiSjzU |
 | Ahora me da pena                            | Henry Fiol                      | https://open.spotify.com/track/3ogUFoUSvXN7GLb0Q0EAgu |
 | Che-mania                                   | Hermanos Lebron                 | not found                                             |
+| Borinquen tiene montuno                     | Ismael Miranda                  | https://open.spotify.com/track/0qu5v3Uc1HckTviHoqJoRk |
