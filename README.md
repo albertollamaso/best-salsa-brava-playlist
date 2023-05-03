@@ -678,3 +678,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Sabre olvidar                               | TNT Band                        | https://open.spotify.com/track/6PIJEKugYG10SjXzGnWZ32 |
 | Periquito pin pin                           | Tommy Olivencia                 | https://open.spotify.com/track/1xlQ4SCNlLGVcGxya4a6de |
 | Sin poderte hablar                          | Willie Colon                    | https://open.spotify.com/track/0cG5FL1bWUhhZTCaiRQVsg |
+| Azuquita pa'l cafe                          | Gran Combo De Puerto Rico       | https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM |
