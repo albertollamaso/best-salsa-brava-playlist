@@ -652,3 +652,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Remembranza                                 | Sonora Ponceña                  | https://open.spotify.com/track/497y7lNDx9OikKT8f9JH6U |
 | Momposina                                   | Sonora Matancera                | https://open.spotify.com/track/2FKi5eUlBTbOX6aHBkiAlW |
 | Quitate de la via perico                    | Ismael Rivera                   | https://open.spotify.com/track/35zVOlTlIotDkgwOVmD6R5 |
+| No te quedes sin bailar                     | Ray Barreto                     | https://open.spotify.com/track/7l2PvOYO6NOOasHzLPtUqd |
