@@ -714,3 +714,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Este amor que se muere                      | Los Van Van de Cuba             | not found                                             |
 | Feo pero sabroso                            | Louie Ramirez                   | https://open.spotify.com/track/14of5iH5kQ59urFBPSI1NS |
 | Tendria que llorar por ti                   | Moncho Santana                  | https://open.spotify.com/track/1KvvRNWBKRcWE6aSxroIb0 |
+| Cantar fañoso                               | Nacho Sanabria                  | not found                                             |
