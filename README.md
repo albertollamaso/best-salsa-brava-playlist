@@ -715,3 +715,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Feo pero sabroso                            | Louie Ramirez                   | https://open.spotify.com/track/14of5iH5kQ59urFBPSI1NS |
 | Tendria que llorar por ti                   | Moncho Santana                  | https://open.spotify.com/track/1KvvRNWBKRcWE6aSxroIb0 |
 | Cantar fañoso                               | Nacho Sanabria                  | not found                                             |
+| Veneno para dos                             | Orquesta Bronko                 | https://open.spotify.com/track/1PSve5Z4qJNtlFyPI2Cz6M |
+| Fantasia latina                             | Nelson y Sus Estrellas          | https://open.spotify.com/track/7CLDw2wVzgYPufc2TlfTX9 |
