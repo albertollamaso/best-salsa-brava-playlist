@@ -703,3 +703,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Vengan a gozar                              | Joey Pastrana                   | not found                                             |
 | Bam bam                                     | Joe Arroyo                      | not found                                             |
 | Esa prieta                                  | Johnny Pacheco                  | https://open.spotify.com/track/10VIGvP42R2kP2LzgKHpdK |
+| S.e.r.a.                                    | La Conspiracion                 | https://open.spotify.com/track/2hPYZaskjKYBP9m19kXDyc |
+| La pantera mambo                            | La 33                           | https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP |
