@@ -658,3 +658,5 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Lejos de ti                                 | Angel Canales                   | https://open.spotify.com/track/2F13ZZuJ1EQnWhdvBpsvpD |
 | Son malas                                   | Rey Reyes                       | https://open.spotify.com/track/1fm5E3FrDTEj9B4c7gIj2a |
 | La muy muy                                  | Roberto Torres                  | https://open.spotify.com/track/5REBZLPFBsM4Rv7eE1vgAl |
+| El nazareno                                 | Ismael Rivera                   | https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v |
+| Calle luna calle sol                        | Hector Lavoe                    | not found                                             |
