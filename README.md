@@ -660,3 +660,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | La muy muy                                  | Roberto Torres                  | https://open.spotify.com/track/5REBZLPFBsM4Rv7eE1vgAl |
 | El nazareno                                 | Ismael Rivera                   | https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v |
 | Calle luna calle sol                        | Hector Lavoe                    | not found                                             |
+| Hechicera                                   | Oscar D' Leon                   | https://open.spotify.com/track/6blO4yfd1DRQr6kywhCmXr |
