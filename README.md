@@ -665,3 +665,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Hermanas con salsa                          | Sexteto Juventud                | not found                                             |
 | Cui cui                                     | Roberto Roena                   | https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N |
 | De barrio obrero a la 15                    | Willie Rosario                  | https://open.spotify.com/track/5hHeSMAoPVIsLtcY6O3mtf |
+| Te vas a arrepentir                         | Gran Combo De Puerto Rico       | https://open.spotify.com/track/4GRaKp9q15TDGtROuH7aaJ |
