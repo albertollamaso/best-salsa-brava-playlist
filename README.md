@@ -676,3 +676,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Babarabatiri                                | Tito Puente                     | https://open.spotify.com/track/0zrktwkID2FyITcV7k2l0O |
 | El recluso                                  | Sonora del Peru                 | https://open.spotify.com/track/58xMOjO5FVhJbl77bPCgam |
 | Sabre olvidar                               | TNT Band                        | https://open.spotify.com/track/6PIJEKugYG10SjXzGnWZ32 |
+| Periquito pin pin                           | Tommy Olivencia                 | https://open.spotify.com/track/1xlQ4SCNlLGVcGxya4a6de |
