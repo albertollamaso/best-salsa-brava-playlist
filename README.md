@@ -747,3 +747,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Canela                                      | Camagüey                        | https://open.spotify.com/track/3Qhg8iRCijPDdFOZ89FvA0 |
 | Juntos                                      | Hector Lavoe                    | not found                                             |
 | El control                                  | Kelman Nuñez                    | not found                                             |
+| Paraiso                                     | Los Makivari                    | not found                                             |
