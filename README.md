@@ -734,3 +734,13 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Mentiras                                    | Oscar D' Leon                   | https://open.spotify.com/track/19KBxG15VD5BQwSsCAmG1m |
 | Quizas                                      | Tabaco                          | https://open.spotify.com/track/48iaRgE1SHCKkrqFsPEQYH |
 | Aicha                                       | Africando                       | https://open.spotify.com/track/47SM72RTQXZpzOiyyraS4m |
+|                                             | Roberto Roena                   | not found                                             |
+|                                             | El Sabor de Nacho               | not found                                             |
+|                                             | Moncho Santana                  | not found                                             |
+|                                             | Louie Ramirez                   | not found                                             |
+|                                             | Richie Ray & Bobby Cruz         | not found                                             |
+|                                             | Orquesta Salsa Dura             | not found                                             |
+|                                             | Juan Formell & Los Van Van      | not found                                             |
+|                                             | La Excelencia                   | not found                                             |
+|                                             | Celia Cruz                      | not found                                             |
+|                                             | Ismael Rivera                   | not found                                             |
