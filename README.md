@@ -748,3 +748,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Juntos                                      | Hector Lavoe                    | not found                                             |
 | El control                                  | Kelman Nuñez                    | not found                                             |
 | Paraiso                                     | Los Makivari                    | not found                                             |
+| Charrupi                                    | Tromboranga                     | not found                                             |
