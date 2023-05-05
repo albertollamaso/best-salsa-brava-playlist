@@ -751,3 +751,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Charrupi                                    | Tromboranga                     | not found                                             |
 | Sinceridad                                  | Tabaco                          | https://open.spotify.com/track/6fMJXpeTTXTcBiZIBeg2W8 |
 | Casanova                                    | Willie Colon                    | https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc |
+| Sabiduria                                   | Orquesta Narvaez                | https://open.spotify.com/track/2rxeB0t5ixrjqn1CZlQKxw |
