@@ -752,3 +752,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Sinceridad                                  | Tabaco                          | https://open.spotify.com/track/6fMJXpeTTXTcBiZIBeg2W8 |
 | Casanova                                    | Willie Colon                    | https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc |
 | Sabiduria                                   | Orquesta Narvaez                | https://open.spotify.com/track/2rxeB0t5ixrjqn1CZlQKxw |
+| El malo                                     | Oscar D' Leon                   | https://open.spotify.com/track/3vN64xiAFugzLbDMfQaeU3 |
