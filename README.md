@@ -768,3 +768,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 |                                             | Frankie Ruiz                          | not found                                             |
 | Inferibious                                 | La Dicupe                             | not found                                             |
 | Julia                                       | Willie Colon                          | https://open.spotify.com/track/6yMqpeGcQVS8jyZhoekVz0 |
+| Africa                                      | La Protesta De Colombia               | not found                                             |
