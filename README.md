@@ -769,3 +769,13 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 | Inferibious                                 | La Dicupe                             | not found                                             |
 | Julia                                       | Willie Colon                          | https://open.spotify.com/track/6yMqpeGcQVS8jyZhoekVz0 |
 | Africa                                      | La Protesta De Colombia               | not found                                             |
+|                                             | Grupo Niche                           | not found                                             |
+|                                             | El Gran Combo de Puerto Rico          | not found                                             |
+|                                             | Adalberto Santiago                    | not found                                             |
+|                                             | Fenky                                 | not found                                             |
+|                                             | Richie Ray & Bobby Cruz               | not found                                             |
+|                                             | Oscar Calle                           | not found                                             |
+|                                             | Orquesta Salsa Dura                   | not found                                             |
+|                                             | Joe Arroyo                            | not found                                             |
+|                                             | Orquesta Aragon                       | not found                                             |
+|                                             | Ismael Rivera                         | not found                                             |
