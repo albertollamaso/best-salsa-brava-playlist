@@ -779,3 +779,13 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 |                                             | Joe Arroyo                            | not found                                             |
 |                                             | Orquesta Aragon                       | not found                                             |
 |                                             | Ismael Rivera                         | not found                                             |
+|                                             | Angel Canales                         | not found                                             |
+|                                             | El Gran Combo de Puerto Rico          | not found                                             |
+|                                             | Joe Cotto y Su Orquesta               | not found                                             |
+|                                             | Bobby Matos                           | not found                                             |
+|                                             | Andy Montañez                         | not found                                             |
+|                                             | Hector Rivera & His Orchestra         | not found                                             |
+|                                             | Orquesta Salsa Dura                   | not found                                             |
+|                                             | Joe Arroyo y La Verdad                | not found                                             |
+|                                             | Alfredito Linares                     | not found                                             |
+|                                             | Ñico Saquito                          | not found                                             |
