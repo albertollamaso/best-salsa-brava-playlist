@@ -789,3 +789,4 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 |                                             | Joe Arroyo y La Verdad                | not found                                             |
 |                                             | Alfredito Linares                     | not found                                             |
 |                                             | Ñico Saquito                          | not found                                             |
+| El adios                                    | Orquesta Zodiac                       | https://open.spotify.com/track/1g9X7BYycYraqBMheHa4eH |
