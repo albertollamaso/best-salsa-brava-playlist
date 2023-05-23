@@ -790,3 +790,13 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 |                                             | Alfredito Linares                     | not found                                             |
 |                                             | Ñico Saquito                          | not found                                             |
 | El adios                                    | Orquesta Zodiac                       | https://open.spotify.com/track/1g9X7BYycYraqBMheHa4eH |
+|                                             | Fania                                 | not found                                             |
+|                                             | Héctor Lavoe                          | not found                                             |
+|                                             | Belisario Lopez                       | not found                                             |
+|                                             | La Sonora Ponceña                     | not found                                             |
+|                                             | Orquesta Salsa Dura                   | not found                                             |
+|                                             | Eddie Palmieri                        | not found                                             |
+|                                             | Daniel Santos                         | not found                                             |
+|                                             | Cuco Valoy                            | not found                                             |
+|                                             | Cortijo y Su Combo                    | not found                                             |
+|                                             | Conjunto Clasico                      | not found                                             |
