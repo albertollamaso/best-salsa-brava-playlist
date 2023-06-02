@@ -810,3 +810,13 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 |                                             | Raphy Leavitt                         | not found                                             |
 |                                             | Bobby Cruz                            | not found                                             |
 |                                             | Jimmy El Leon                         | not found                                             |
+|                                             | Rubén Blades                          | not found                                             |
+|                                             | Santané y Su Gran Orquesta            | not found                                             |
+|                                             | Conjunto Clasico                      | not found                                             |
+|                                             | Party Tyme Karaoke                    | https://open.spotify.com/track/7xYWtYCRfuPwg1DT5vEyc8 |
+|                                             | Lebron Brothers                       | not found                                             |
+|                                             | El Gran Combo de Puerto Rico          | not found                                             |
+|                                             | Celia Cruz                            | not found                                             |
+|                                             | Carlos Hayre y Su Conjunto            | not found                                             |
+|                                             | Orquesta Salsa Dura                   | not found                                             |
+|                                             | Richie Ray & Bobby Cruz               | not found                                             |
