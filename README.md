@@ -800,3 +800,13 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 |                                             | Cuco Valoy                            | not found                                             |
 |                                             | Cortijo y Su Combo                    | not found                                             |
 |                                             | Conjunto Clasico                      | not found                                             |
+|                                             | Orquesta Broadway                     | not found                                             |
+|                                             | Sexteto Juventud                      | not found                                             |
+|                                             | Orquesta Salsa Dura                   | not found                                             |
+|                                             | Ruban Blades                          | not found                                             |
+|                                             | Héctor Lavoe                          | not found                                             |
+|                                             | El Gran Combo de Puerto Rico          | not found                                             |
+|                                             | Roberto Roena y Su Apollo Sound       | not found                                             |
+|                                             | Raphy Leavitt                         | not found                                             |
+|                                             | Bobby Cruz                            | not found                                             |
+|                                             | Jimmy El Leon                         | not found                                             |
