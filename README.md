@@ -820,3 +820,13 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 |                                             | Carlos Hayre y Su Conjunto            | not found                                             |
 |                                             | Orquesta Salsa Dura                   | not found                                             |
 |                                             | Richie Ray & Bobby Cruz               | not found                                             |
+|                                             | Bobby Matos                           | not found                                             |
+|                                             | Andy Montañez                         | not found                                             |
+|                                             | Joe Arroyo y La Verdad                | not found                                             |
+|                                             | Alfredito Y Su Orquesta               | not found                                             |
+|                                             | Orquesta Salsa Dura                   | not found                                             |
+|                                             | Alfredito Linares                     | not found                                             |
+|                                             | La Suerte Sonidera                    | not found                                             |
+|                                             | Roberto Roena                         | not found                                             |
+|                                             | Bobby Cruz                            | not found                                             |
+|                                             | Los Titanes                           | not found                                             |
