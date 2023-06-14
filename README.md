@@ -830,3 +830,13 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 |                                             | Roberto Roena                         | not found                                             |
 |                                             | Bobby Cruz                            | not found                                             |
 |                                             | Los Titanes                           | not found                                             |
+|                                             | Fania All-Stars                       | not found                                             |
+|                                             | Orquesta Salsa Dura                   | not found                                             |
+|                                             | Munay                                 | not found                                             |
+|                                             | Joe Cuba Sextette & Cheo Feliciano    | not found                                             |
+|                                             | Alberto Socarras                      | not found                                             |
+|                                             | Grupo Niche                           | not found                                             |
+|                                             | Joe Cuba Sextette & Cheo Feliciano    | not found                                             |
+|                                             | El Gran Combo de Puerto Rico          | not found                                             |
+|                                             | Orquesta Salsa Dura                   | not found                                             |
+|                                             | Fonseca & Willie Colón                | not found                                             |
