@@ -840,3 +840,13 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 |                                             | El Gran Combo de Puerto Rico          | not found                                             |
 |                                             | Orquesta Salsa Dura                   | not found                                             |
 |                                             | Fonseca & Willie Colón                | not found                                             |
+|                                             | Rubén Blades                          | not found                                             |
+|                                             | Manteca                               | not found                                             |
+|                                             | La India de Oriente                   | not found                                             |
+|                                             | Machado                               | not found                                             |
+|                                             | Sociedad 76 Orchestra                 | not found                                             |
+|                                             | Joe Cuba Sextette & Cheo Feliciano    | not found                                             |
+|                                             | Rapkur                                | not found                                             |
+|                                             | Orquesta Salsa Dura                   | not found                                             |
+|                                             | La Misma Gente                        | not found                                             |
+|                                             | Los Gemelos                           | https://open.spotify.com/track/4XbJ9eiqkkraIK0FX0uuLI |
