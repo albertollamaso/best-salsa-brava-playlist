@@ -860,3 +860,13 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 |                                             | Sonora Ponceña                        | not found                                             |
 |                                             | Juan Manuel Lebron                    | not found                                             |
 |                                             | Perez Prado 2000                      | not found                                             |
+|                                             | Mezcla Latina                         | not found                                             |
+|                                             | Grupo Niche                           | not found                                             |
+|                                             | Orquesta Salsa Dura                   | not found                                             |
+|                                             | Orquesta Broadway                     | not found                                             |
+|                                             | Johnny Colón                          | not found                                             |
+|                                             | El Gran Combo de Puerto Rico          | not found                                             |
+|                                             | Joey Pastrana                         | not found                                             |
+|                                             | LA 33                                 | not found                                             |
+|                                             | Mezcla Latina                         | not found                                             |
+|                                             | Orquesta Salsa Dura                   | not found                                             |
