@@ -870,3 +870,13 @@ This project is licensed under the Apache License. See the `LICENSE` file for de
 |                                             | LA 33                                 | not found                                             |
 |                                             | Mezcla Latina                         | not found                                             |
 |                                             | Orquesta Salsa Dura                   | not found                                             |
+|                                             | Juan Formell & Los Van Van            | not found                                             |
+|                                             | Ocho y Media                          | not found                                             |
+|                                             | Héctor Lavoe                          | not found                                             |
+|                                             | El Gran Combo de Puerto Rico          | not found                                             |
+|                                             | Orquesta Salsa Dura                   | not found                                             |
+|                                             | Roberto Roena y Su Apollo Sound       | not found                                             |
+|                                             | Bobby Cruz                            | not found                                             |
+|                                             | Jimmy El Leon                         | not found                                             |
+|                                             | Los Rumbaney                          | not found                                             |
+|                                             | Martin & Oscar                        | https://open.spotify.com/track/4jNPF7eVRPQBwG0AzlDlD4 |
